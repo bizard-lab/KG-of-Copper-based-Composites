@@ -1,0 +1,12 @@
+[
+   {
+      "describe":"电导率值",
+      "keywords":"%IACS",
+      "entity_type":"性能值"
+   },
+   {
+      "describe":"强度值",
+      "keywords":"MPa,GPa",
+      "entity_type":"性能值"
+   }
+]
