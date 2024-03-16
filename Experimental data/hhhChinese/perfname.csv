@@ -1,0 +1,8 @@
+Performance:ID,Performance,:LABEL
+p0000001,tensilestrength,PerfName
+p0000002,hardness,PerfName
+p0000005,yieldstrength,PerfName
+p0000008,electricalconductivity,PerfName
+p0000009,thermalconductivity,PerfName
+p0000013,coefficientofthermalexpansion,PerfName
+p0000016,breakingstrength,PerfName

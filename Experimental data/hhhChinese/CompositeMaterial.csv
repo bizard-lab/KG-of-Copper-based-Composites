@@ -1,0 +1,11 @@
+Material:ID,Material,:LABEL
+m0000004,Ag-Cu-Ti/TiB2,CompositeMaterial
+m0000008,AlA-Cu,CompositeMaterial
+m0000010,Al-Cu-Mg,CompositeMaterial
+m0000017,AlN/Cu,CompositeMaterial
+m0000018,Cu/B4C,CompositeMaterial
+m0000019,Cu/diamond,CompositeMaterial
+m0000020,Cu/HDPE,CompositeMaterial
+m0000059,Cu-Fe,CompositeMaterial
+m0000061,Cu-Ni-Si,CompositeMaterial
+m0000073,Gr-Cu,CompositeMaterial

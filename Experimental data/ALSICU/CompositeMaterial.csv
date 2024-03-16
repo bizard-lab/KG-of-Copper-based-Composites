@@ -1,0 +1,8 @@
+Material:ID,Material,:LABEL
+m0000001,Al-Cu-Fe,CompositeMaterial
+m0000002,Al-Cu-Mg,CompositeMaterial
+m0000003,Al-Cu-Sc,CompositeMaterial
+m0000004,Al-Cu-Li,CompositeMaterial
+m0000005,Al-Cu-Ni,CompositeMaterial
+m0000006,Al-Cu-Si,CompositeMaterial
+m0000007,Al-Zn-Si-Mg-Cu,CompositeMaterial

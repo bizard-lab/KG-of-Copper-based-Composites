@@ -1,0 +1,17 @@
+Performance:ID,Performance,:LABEL,
+p0000001,tensilestrength,PerfName,
+p0000002,hardness,PerfName,
+p0000003,UTS,PerfName,p0000001
+p0000004,YS,PerfName,p0000005
+p0000005,yieldstrength,PerfName,
+p0000006,TC,PerfName,p0000009
+p0000007,thermal,PerfName,p0000009
+p0000008,electricalconductivity,PerfName,
+p0000009,thermalconductivity,PerfName,
+p0000010,conductivity,PerfName,p0000008
+p0000011,CTE,PerfName,p0000013
+p0000012,ultimatetensilestrength,PerfName,p0000001
+p0000013,coefficientofthermalexpansion,PerfName,
+p0000014,bendingstrength,PerfName,
+p0000015,Vickershardness,PerfName,
+p0000016,breakingstrength,PerfName,
