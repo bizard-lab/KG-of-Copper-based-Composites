@@ -1,0 +1,1891 @@
+“	δ-Cu2S	thermal conductivity	0.1W/mK	”
+“	CuAl2O3	electrical conductivity	0.27%IACS	”
+“	Cu-1.87	electrical conductivity	0.27%IACS	”
+“	CuAl2O4	tensile strength	0.28MPa	”
+“	Zn-0.75Mn-0.40Cu	tensile strength	0.2MPa	”
+“	Zn-0.75Mn-0.40Cu	yield strength	0.2MPa	”
+“	Al-Cu	tensile strength	0.2MPa	”
+“	0.8wt%CuO	thermal conductivity	0.303W/mK	”
+“	CuNWs	thermal conductivity	0.32W/mK	”
+“	Zn-4Cu	yield strength	0.5MPa	”
+“	Zn-4Cu	tensile strength	0.5MPa	”
+“	SnAgCu	thermal conductivity	0.5W/mK	”
+“	γ-Cu2S	thermal conductivity	0.5W/mK	”
+“	Al2O3-Cu/water	thermal conductivity	0.62W/mK	”
+“	np-Cu	yield strength	0.6MPa	”
+“	G/Cu	thermal conductivity	0.83W/mK	”
+“	CuS	tensile strength	0.8MPa	”
+“	CuLi3S2	thermal conductivity	0.9W/mK	”
+“	Zr47.5Cu47.5Al5-BMG	yield strength	1547MPa	”
+“	Cu/Sn-9Zn/Cu	tensile strength	1.0MPa	”
+“	Cu/Sn-9Zn/Cu	tensile strength	1.0MPa	”
+“	35wt%Cu	thermal conductivity	1.21W/mK	”
+“	0.1wt.% DM-CuON	thermal conductivity	1.348W/mK	”
+“	0.2wt.% DM-CuON	thermal conductivity	1.423W/mK	”
+“	0.5wt.% DM-CuON	thermal conductivity	1.585W/mK	”
+“	3wt%Mg2Si/Al-5Cu	tensile strength	1.2MPa	”
+“	DM-CuON	thermal conductivity	1.308W/mK	”
+“	np-Cu	yield strength	1.5MPa	”
+“	Cu2.04SnSe3	thermal conductivity	1.5W/mK	”
+“	Cu/HDPE	thermal conductivity	1.783W/mK	”
+“	CuS	thermal conductivity	1.8W/mK	”
+“	steel/Ag-20Cu-15Pd/yieldstrengthZ	yield strength	10.4MPa	”
+“	Al-Si-Cu	tensile strength	10.5MPa	”
+“	Al-Si-Cu	yield strength	10.5MPa	”
+“	Zn-0.75Mn-0.40Cu	tensile strength	10.7MPa	”
+“	Zn-0.75Mn-0.40Cu	yield strength	10.7MPa	”
+“	Cu-0.5%Cr	electrical conductivity	100%IACS	”
+“	Cu-8.0Ni-1.8Si-0.6Sn-0.15Mg	electrical conductivity	100%IACS	”
+“	Cu-Ag-Zr	electrical conductivity	100.3%IACS	”
+“	Al-Cu-Fe	hardness	1000HV	”
+“	these-CuBe	hardness	1000HV	”
+“	Ti-Cu	hardness	1000HV	”
+“	Cu50Zr50	yield strength	1000MPa	”
+“	CuNiBe	yield strength	1000MPa	”
+“	Cu-7Ag	tensile strength	1000MPa	”
+“	Cu-rich	yield strength	1000MPa	”
+“	Cu-Be	tensile strength	1000MPa	”
+“	Cu-2.5Ni-(1.7Si + 0.3Fe)	tensile strength	1000MPa	”
+“	Cu-10Ni-3Al-0.8Si	tensile strength	1004.2MPa	”
+“	Cu-0.5vol%	hardness	100Hv	”
+“	Cu-Cr	hardness	100HV	”
+“	CuCrZr	hardness	100HV	”
+“	Cu-rich	hardness	100HV	”
+“	Ag-Cu	hardness	100HV	”
+“	Ni-Cu	hardness	100Hv	”
+“	Cu-based	hardness	100HV	”
+“	ERCuTi-4	tensile strength	100MPa	”
+“	TiNiCu	yield strength	100MPa	”
+“	Al-Cu-Sc	tensile strength	100MPa	”
+“	Al-Cu-Sc	yield strength	100MPa	”
+“	Mg-Zn-Cu-Mn	thermal conductivity	100W/mK	”
+“	Cu-Ni-Si-Cr	thermal conductivity	100W/mK	”
+“	MgZnCuMn	thermal conductivity	100W/mK	”
+“	Cu-Nb	tensile strength	101.8MPa	”
+“	Cu-Nb	yield strength	101.8MPa	”
+“	Cu-11wt.%	tensile strength	1020MPa	”
+“	Cu-15Cr	tensile strength	1020MPa	”
+“	Cu-15Cr-0.24Zr	tensile strength	1023MPa	”
+“	Cu-5%	tensile strength	1027MPa	”
+“	Ti-Cu-N	hardness	1030HV	”
+“	Cu-Cr-Ti-CNT	hardness	1033HV	”
+“	Cu-14Fe-0.1Ag	tensile strength	1033MPa	”
+“	Cu-14Fe-0.1Ag	tensile strength	1033MPa	”
+“	Cu-2.7Ti	tensile strength	1035MPa	”
+“	Cu-2.7Ti	yield strength	1035MPa	”
+“	AT-Cu	hardness	103HV	”
+“	AT-Cu	hardness	103HV	”
+“	TiC0.5/Cu-Al	yield strength	103MPa	”
+“	Al86Cu14	yield strength	1044MPa	”
+“	c-BN/Cu-Ni-Sn-Ti	tensile strength	105.1MPa	”
+“	Cui	hardness	1050HV	”
+“	Cu-24wt%Ag	tensile strength	1050MPa	”
+“	Ti60Cu14Ni12Sn4Nb10	yield strength	1052MPa	”
+“	Cu-5wt%TiO2	hardness	105HV	”
+“	Ag-20Cu-22Zn-24Cd	hardness	105HV	”
+“	Al-Cu-Sc	yield strength	105MPa	”
+“	Al-Cu-Sc	tensile strength	105MPa	”
+“	Cu-40wt%Zn	hardness	106.00HV	”
+“	Cu/Mg	hardness	106.9HV	”
+“	Cu-ABA	coefficient of thermal expansion	19.5e-6/K	”
+“	Cu-clad	coefficient of thermal expansion	(5.6-11.6)e-6/K	”
+“	Al-Cu	coefficient of thermal expansion	(6-11)e-6/K	”
+“	60-Cu40	coefficient of thermal expansion	11.7e-6/K	”
+“	W-20wt.%Cu	coefficient of thermal expansion	7.4e-6/K	”
+“	CuO	coefficient of thermal expansion	9.3e-6/K	”
+“	CuFe2O4	coefficient of thermal expansion	11.2e-6/K	”
+“	Sn-Cu-Ni	coefficient of thermal expansion	1.0e-6/K	”
+“	Cu/diamond	coefficient of thermal expansion	7.26e-6/K	”
+“	Cu-0.5wt.%Ti/diamond	coefficient of thermal expansion	6.5e-6/K	”
+“	Cu-Diamond	coefficient of thermal expansion	7e-6/K	”
+“	W-Cu	coefficient of thermal expansion	5.6e-6/K	”
+“	Ag-Cu	coefficient of thermal expansion	18.7e-6/K	”
+“	GF/Cu-Cr	coefficient of thermal expansion	4.68e-6/K	”
+“	Al-Cu-Li	coefficient of thermal expansion	20.4e-6/K	”
+“	Cu/diamond	coefficient of thermal expansion	1.2e-6/K	”
+“	Cu/diamond	coefficient of thermal expansion	14.81e-6/K	”
+“	Cu-0.5 wt%B/diamond	coefficient of thermal expansion	(4-6)e-6/K	”
+“	W-10%Cu	coefficient of thermal expansion	7.3e-6/K	”
+“	Cu-rich	yield strength	1060MPa	”
+“	Cu-7Cr-0.1Ag	tensile strength	1067MPa	”
+“	Cu-7Cr-0.1Ag	tensile strength	1067MPa	”
+“	Cu/Mg	hardness	106HV	”
+“	W/Cu	tensile strength	106MPa	”
+“	Al-Si-Cu-Ni-Mg	tensile strength	106MPa	”
+“	Cu-rich	yield strength	1074MPa	”
+“	Cu95+Ta2.5+Ru2.5	hardness	107HV	”
+“	CuNiSiAl	tensile strength	1080MPa	”
+“	CuNiSiAl	yield strength	1080MPa	”
+“	Cu-Ni-Si	tensile strength	1080MPa	”
+“	Cu-Ni-Si-Al	tensile strength	1080MPa	”
+“	Cu-Be	tensile strength	1090MPa	”
+“	Cu-Be	yield strength	1090MPa	”
+“	1Cu	yield strength	1093MPa	”
+“	1Cu	tensile strength	1093MPa	”
+“	1Cu	yield strength	1093MPa	”
+“	1Cu	tensile strength	1093MPa	”
+“	1Cu	tensile strength	1096MPa	”
+“	Ti-10Mo-3Cu	tensile strength	1098.1MPa	”
+“	CuFe2O4	coefficient of thermal expansion	11.2e-6/K	”
+“	Cu-9Ni-6Sn	electrical conductivity	11.37%IACS	”
+“	Cu-Al-Be	tensile strength	11.4MPa	”
+“	Cu-Cr-Zn	hardness	1100HV	”
+“	Cu-Cr-Zr	hardness	1100HV	”
+“	Cu-Ti	tensile strength	1100MPa	”
+“	CuAl7	tensile strength	1100MPa	”
+“	Ti-Cu	yield strength	1100MPa	”
+“	Current	yield strength	1100MPa	”
+“	Cu-10wt%Nb	tensile strength	1102MPa	”
+“	Cu-Zn	hardness	1108.5HV	”
+“	Cu-40Zn	hardness	110Hv	”
+“	Cu/Mg	hardness	110HV	”
+“	CNT/Al-Cu	tensile strength	110MPa	”
+“	CNT/Al-Cu	yield strength	110MPa	”
+“	Al-Si-Cu	tensile strength	110MPa	”
+“	Al-Si-Cu	yield strength	110MPa	”
+“	Al-Cu-Sc	tensile strength	110MPa	”
+“	Al-Cu-Sc	yield strength	110MPa	”
+“	Cu-Al2O3-La	tensile strength	110MPa	”
+“	Cu-Al2O3-La	yield strength	110MPa	”
+“	GNP/Cu	hardness	111.2HV	”
+“	GNP/Cu	hardness	111.2HV	”
+“	Al-Cu-Mg	hardness	111HV	”
+“	72Ag28Cu-2Zr	hardness	111HV	”
+“	CNTs/Al-Cu	hardness	112.8HV	”
+“	(Ti:Cu)-DLC	hardness	1124-1854Hv	”
+“	Al-Zn-Si-Mg-Cu	hardness	112HV	”
+“	Al-6.4%Cu	yield strength	112MPa	”
+“	Al-6.6%Cu	tensile strength	112MPa	”
+“	Cu-10Ni-3Al-0.8Si	yield strength	1133MPa	”
+“	Cu-10Ni-3Al-0.8Si	tensile strength	1133MPa	”
+“	0Cu	tensile strength	1137MPa	”
+“	Cu-B/diamond	thermal conductivity	1144W/mK	”
+“	Cu-14Fe-0.1Ag	tensile strength	1149MPa	”
+“	Cu-14Fe-0.1Ag	tensile strength	1149MPa	”
+“	Al-4.0Cu-0.3Mg-1.0Ag-0.1Si	hardness	115HV	”
+“	Cu/Ni	tensile strength	115MPa	”
+“	Cu/Ni	yield strength	115MPa	”
+“	Cu/Ni	tensile strength	115MPa	”
+“	Cu/Ni	yield strength	115MPa	”
+“	δ-Al3CuNi	tensile strength	115MPa	”
+“	AlCu6.3	yield strength	115MPa	”
+“	AlCu6.3	tensile strength	115MPa	”
+“	Ti-10Mo-xCu	tensile strength	1162.2MPa	”
+“	0.3wt%GNPs/Cu	yield strength	117MPa	”
+“	CNTs/Al-Cu	hardness	118.8HV	”
+“	Cu-8.0Ni-1.8Si-0.6Sn-0.15Mg	tensile strength	1180MPa	”
+“	Cu-10Ni-3Al-0.8Si	tensile strength	1180MPa	”
+“	Cu-10Ni-3Al-0.8Si	yield strength	1180MPa	”
+“	Cu-10Ni-3Al-0.8Si	tensile strength	1180MPa	”
+“	Cu/Dia	thermal conductivity	118-200W/mK	”
+“	Al-Zn-Mg-Cu	hardness	118Hv	”
+“	80W-14Cu-6Zn	yield strength	1200MPa	”
+“	Al-Cu	hardness	120Hv	”
+“	EUROFER/80Cu20Ti	hardness	120HV	”
+“	Cu-Cr	yield strength	120MPa	”
+“	A2(Cu)	tensile strength	120MPa	”
+“	Al-Cu	yield strength	120MPa	”
+“	Cu-Fe	tensile strength	1216MPa	”
+“	Al-15%Mg2Si-1%Cu	hardness	121HV	”
+“	Cu-rGo-MoS2	tensile strength	121MPa	”
+“	Cu-Si	hardness	122HV	”
+“	Cu-Si-Zn	hardness	123.4Hv	”
+“	Cu-2Si-39.5Zn	hardness	123.4HV	”
+“	Cu-15Ni-8Sn-0.8Nb	yield strength	1230MPa	”
+“	Cu-1wt.%	hardness	123HV	”
+“	Cu-1vol%CNT	hardness	124.14HV	”
+“	Al-Cu	tensile strength	124.2MPa	”
+“	Ti-Cu	yield strength	1247MPa	”
+“	Al-11.3Si-2Cu	tensile strength	125-140MPa	”
+“	Al-11.3Si-2Cu	yield strength	125-140MPa	”
+“	Ti-Cu-Zr-Fe-Nb	yield strength	1255MPa	”
+“	Al-Cu-Li	tensile strength	125MPa	”
+“	Cu-8.5Al-4Ni	tensile strength	125MPa	”
+“	Cu/Ti3SiC2/C/MWCNtensilestrength	tensile strength	126.92MPa	”
+“	Al-Cu-Li	hardness	126HV	”
+“	Cu-6wt%Ag	tensile strength	1270MPa	”
+“	Cu-6wt%Ag	tensile strength	1270MPa	”
+“	CrMn0.3FeVCu0.06	yield strength	1273MPa	”
+“	5182-ZnCu	yield strength	127MPa	”
+“	5182-ZnCu	yield strength	127MPa	”
+“	5182-ZnCu	yield strength	127MPa	”
+“	Al-Mn-Be-Cu	hardness	128HV	”
+“	Ag@Gr/Cu	tensile strength	128MPa	”
+“	Cu/Fe	tensile strength	1290MPa	”
+“	Al-11.3Si-2Cu	yield strength	130-160MPa	”
+“	Al-11.3Si-2Cu	tensile strength	130-160MPa	”
+“	Cu-1at.%	tensile strength	1308MPa	”
+“	Cu-40%Zn	hardness	130HV	”
+“	W/CuCrZr	tensile strength	130MPa	”
+“	Cu/Sn/Zn	tensile strength	130MPa	”
+“	Cu-12Ni-17	hardness	131HV	”
+“	Cu-1.5CNTs-0.5Al2O3	hardness	131HV	”
+“	Cu-0.3Cr-0.1Ag	hardness	132HV	”
+“	SiCp/Al-Si-Cu-Ni-Mg	tensile strength	132MPa	”
+“	Cu/Ni	yield strength	132MPa	”
+“	Cu/Ni	tensile strength	132MPa	”
+“	Cu/Ni	yield strength	132MPa	”
+“	Cu/Ni	tensile strength	132MPa	”
+“	CuCrZr.	hardness	133±17HV	”
+“	CuCrZr	hardness	133HV	”
+“	Cu2	yield strength	133MPa	”
+“	Al-Fe-Cu	tensile strength	134.65MPa	”
+“	Cu-tensilestrengthV	tensile strength	135.5MPa	”
+“	Cu-TSV	yield strength	135.5MPa	”
+“	Cu-tensilestrengthVs	tensile strength	135.5MPa	”
+“	Cu-TSVs	yield strength	135.5MPa	”
+“	Cu/B4C	hardness	135Hv	”
+“	Al-Mg-Si-Cu	yield strength	135MPa	”
+“	Al-Mg-Si-Cu	yield strength	135MPa	”
+“	Cu-7wt.%Ag	tensile strength	1360MPa	”
+“	Cu-Co	hardness	137±39HV	”
+“	S-Cu	hardness	137HV	”
+“	Cu-9Ni-6Sn	tensile strength	1392MPa	”
+“	W-Cu	hardness	139Hv	”
+“	Al-Cu	hardness	14.2HV	”
+“	CNTs/Cu-Ti	yield strength	14.5MPa	”
+“	Zr-Cu-Al	yield strength	1400MPa	”
+“	Zn-Cu	hardness	140HV	”
+“	Al-Mg-Si-Cu	yield strength	140MPa	”
+“	Al-Si-Cu	tensile strength	140MPa	”
+“	Al-Si-Cu	yield strength	140MPa	”
+“	CNT/Al-Zn-Mg-Cu	yield strength	140MPa	”
+“	Be-Cu	thermal conductivity	140W/mK	”
+“	Al-8.4Si-20Cu-10Ge	hardness	141±7Hv	”
+“	Cu-1Cr-0.65Zr	hardness	141HV	”
+“	Al-Cu-Mg-Si	tensile strength	141MPa	”
+“	40wt%(TiCx-TiB2)/Al-Cu-Mg-Si	tensile strength	141MPa	”
+“	40wt%(TiCx-TiB2)/Al-Cu-Mg-Si	yield strength	141MPa	”
+“	CNTs/Cu	yield strength	142.2MPa	”
+“	Cu-Ag	tensile strength	1420MPa	”
+“	Ag-Cu	tensile strength	1420MPa	”
+“	Al-6Cu-6Mg-5Sn-3Ga-1In	hardness	142HV	”
+“	Al-6.0Cu-0.6Mn-1.0Fe-1.5Ni	yield strength	142MPa	”
+“	Al-6.0Cu-0.6Mn-1.0Fe-1.5Ni	tensile strength	142MPa	”
+“	Al-6.0Cu-0.6Mn-1.0Fe-1.5Ni	yield strength	142MPa	”
+“	Al-6.0Cu-0.6Mn-1.0Fe-1.5Ni	tensile strength	142MPa	”
+“	Ti-Nb-Cu-Co-Al	yield strength	1430MPa	”
+“	Cu-12.7Au	hardness	143HV	”
+“	Cu-12.7Au	hardness	143HV	”
+“	Cu-12.7Au	hardness	143HV	”
+“	Al-Si-Cu	tensile strength	143MPa	”
+“	Al-Si-Cu	yield strength	143MPa	”
+“	Al-3%Cu	hardness	144.5Hv	”
+“	Cu-10%Al	tensile strength	144MPa	”
+“	Graphene/Cu-3	yield strength	144MPa	”
+“	Graphene/Cu-5	tensile strength	144MPa	”
+“	Cu-0.2	hardness	145.0HV	”
+“	Fe74.91Ni8.82Cr11.62Mo1.34Ti0.67Nb0.32Al0.19V0.36Cu1.78	tensile strength	1456MPa	”
+“	Fe74.91Ni8.82Cr11.62Mo1.34Ti0.67Nb0.32Al0.19V0.36Cu1.78	yield strength	1456MPa	”
+“	Cu-substrate	hardness	145HV	”
+“	Fe-Cu	hardness	145Hv	”
+“	Cu-Ti	tensile strength	145MPa	”
+“	Cu-Ti	yield strength	145MPa	”
+“	Ag-Cu-2Ti	hardness	146HV	”
+“	W/Cu	tensile strength	146MPa	”
+“	Zn-1Cu	yield strength	148.7MPa	”
+“	Al/Cu/Ti	tensile strength	148MPa	”
+“	Al/Cu/Ti	yield strength	148MPa	”
+“	Ti45Cu39Ni11Zr5	yield strength	1490±50MPa	”
+“	Cu-TiC-C	hardness	149-171HV	”
+“	Fe74.91Ni8.82Cr11.62Mo1.34Ti0.67Nb0.32Al0.19V0.36Cu1.78	yield strength	1494MPa	”
+“	Fe74.91Ni8.82Cr11.62Mo1.34Ti0.67Nb0.32Al0.19V0.36Cu1.78	tensile strength	1494MPa	”
+“	Custom	tensile strength	1496MPa	”
+“	Custom	yield strength	1496MPa	”
+“	Cu-5%	hardness	149HV	”
+“	Sn-Ag-Cu	hardness	15.0Hv	”
+“	Sn-Ag-Cu	hardness	15.4Hv	”
+“	CNTs/Al-Cu	hardness	150.9HV	”
+“	WC-Cu	hardness	1500HV	”
+“	Cu-Sb	hardness	150HV	”
+“	Al-Cu	yield strength	150MPa	”
+“	Al-Cu-Sc	yield strength	150MPa	”
+“	Cu-0.8Cr	hardness	152.8HV	”
+“	Al-Cu	hardness	152Hv	”
+“	Cu4Ti1C	hardness	152HV	”
+“	Al-Si-Cu	yield strength	152MPa	”
+“	Al-Si-Cu	tensile strength	152MPa	”
+“	Al-6.0Cu-0.6Mn-1.0Fe-1.5Ni	tensile strength	152MPa	”
+“	Al-6.0Cu-0.6Mn-1.0Fe-1.5Ni	yield strength	152MPa	”
+“	Al-6.0Cu-0.6Mn-1.0Fe-1.5Ni	tensile strength	152MPa	”
+“	Al-6.0Cu-0.6Mn-1.0Fe-1.5Ni	yield strength	152MPa	”
+“	W-40wt.%Cu	hardness	155.44HV	”
+“	SnBi/Cu	tensile strength	155MPa	”
+“	Al-Si-Cu	tensile strength	155MPa	”
+“	Al-Si-Cu	yield strength	155MPa	”
+“	Cu/Mg	yield strength	156MPa	”
+“	Q-Al5Cu2Mg8Si6	tensile strength	157MPa	”
+“	Al-4.5%Cu/TiC	tensile strength	158.69MPa	”
+“	SH-Cu	yield strength	158MPa	”
+“	Custom	yield strength	1595MPa	”
+“	Custom	tensile strength	1595MPa	”
+“	Cu-NbC	hardness	159HV	”
+“	Sn-Cu-Ni	hardness	16.64Hv	”
+“	Nb-Cu	yield strength	160.3MPa	”
+“	Cu-0.8Cr-0.17Fe-0.048P	hardness	160.8HV	”
+“	NUCu-170	yield strength	1600MPa	”
+“	Zr-Cu-Ni-Al	tensile strength	1600MPa	”
+“	Cu-rich	hardness	160HV	”
+“	Al-5Cu	yield strength	160MPa	”
+“	Cu-Ag	tensile strength	161.9MPa	”
+“	Zr57Cu20Al10Ni8Ag5	tensile strength	1746MPa	”
+“	Zr57Cu20Al10Ni8Ag5	yield strength	1612MPa	”
+“	Cu-Zn	hardness	161HV	”
+“	Al-4.0Cu-1.5Mg	hardness	161HV	”
+“	Cu-Al2O3	hardness	162HV	”
+“	α-Cu	hardness	163HV	”
+“	zones/Cu-Mg	hardness	163HV	”
+“	0.5wt%Cu	tensile strength	164.2MPa	”
+“	0.5wt%Cu	yield strength	164.2MPa	”
+“	40wt%(TiCx-TiB2)/Al-Cu-Mg-Si	yield strength	164MPa	”
+“	40wt%(TiCx-TiB2)/Al-Cu-Mg-Si	tensile strength	164MPa	”
+“	Ag-Cu-added	tensile strength	165.96MPa	”
+“	Ag-Cu-added	yield strength	165.96MPa	”
+“	Zn-3Cu	tensile strength	165±7MPa	”
+“	Zn-3Cu	yield strength	165±7MPa	”
+“	Cu-Cr-Zr	hardness	165HV	”
+“	AlCuCrFe	hardness	165HV	”
+“	Al-Cu	yield strength	165MPa	”
+“	Cu-SiC	hardness	167HV	”
+“	AlA-Cu	yield strength	167MPa	”
+“	AlA-Cu	tensile strength	167MPa	”
+“	Cu-Ag	tensile strength	168MPa	”
+“	Ti2Cu	yield strength	1690MPa	”
+“	Cu-6.0Ni-1.0Si-0.5Al	electrical conductivity	17.1%IACS	”
+“	Ni-Ti-Cu	hardness	17.23HV	”
+“	Ni-Ti-Cu	hardness	17.23HV	”
+“	Al-Li-Cu	hardness	17.5HV	”
+“	Cu50Zr45Al5	yield strength	1700MPa	”
+“	Al-9.6Si-20Cu	hardness	170-270HV	”
+“	Al-2%Cu	hardness	170Hv	”
+“	Al65Cu20Fe15	hardness	170HV	”
+“	Cu-1.08wt%	hardness	170HV	”
+“	Cu-0.5	hardness	170HV	”
+“	Cu-1.0	hardness	170HV	”
+“	TiB2/Cu	yield strength	170MPa	”
+“	Mg-2Gd-0.75Cu	yield strength	170MPa	”
+“	Mg-6Zn-4Al-1Cu	tensile strength	171MPa	”
+“	Mg-6Zn-4Al-1Cu	yield strength	171MPa	”
+“	Cu/diamond	thermal conductivity	171W/mK	”
+“	Cu-Zr	tensile strength	172MPa	”
+“	Cu-enriched	yield strength	1730MPa	”
+“	Cu-4.5Al	yield strength	173MPa	”
+“	Cu-W	hardness	174HV	”
+“	Al-6.8Zn-6.5Si-2Mg-1.3Cu	hardness	174HV	”
+“	CuNiIn	hardness	174HV	”
+“	Zr47.3Cu32Al8Ag8Ta4Si0.7-based	yield strength	1750MPa	”
+“	YCu	tensile strength	175-300MPa	”
+“	CuZr0.21	hardness	175HV	”
+“	CuCr	yield strength	175MPa	”
+“	Al/Cu	tensile strength	176±31MPa	”
+“	Cu-TSVs	yield strength	177.6MPa	”
+“	Cu-tensilestrengthVs	tensile strength	177.6MPa	”
+“	Cu-Ag-added	yield strength	177.98MPa	”
+“	Zr60Al10Cu20Pd10	yield strength	1770MPa	”
+“	Cu-Cr-Zr-Ni-Si	hardness	177HV	”
+“	Cu-Cr-Zr-Ni-Si	hardness	177HV	”
+“	Ag-Cu-Pd	tensile strength	177MPa	”
+“	Cu-Ni	tensile strength	177MPa	”
+“	Cu-1wt.%	tensile strength	177MPa	”
+“	Cu4Ti1C	hardness	179HV	”
+“	Al/Cu/Ti	yield strength	179MPa	”
+“	Al/Cu/Ti	tensile strength	179MPa	”
+“	Mn-0.8Cu	tensile strength	179MPa	”
+“	Mn-0.8Cu	yield strength	179MPa	”
+“	Cu-10Ni-3Al-0.8Si	electrical conductivity	18.1%IACS	”
+“	Cu-10Ni-3Al-0.8Si	electrical conductivity	18.1%IACS	”
+“	Cu-10Ni-3Al-0.8Si	electrical conductivity	18.1%IACS	”
+“	Cu:SS	hardness	1800HV	”
+“	Zr57Ni12.6Al10Cu15.4Nb5	yield strength	1800MPa	”
+“	1Ag-Cu/400	hardness	180-245HV	”
+“	Al-Cu-Sc	hardness	180Hv	”
+“	Cu-Cr-Zr	hardness	180HV	”
+“	Mo-Cu	hardness	180Hv	”
+“	Cu-3Si	hardness	180HV	”
+“	Cu-3	hardness	180HV	”
+“	Cu/Al/Cu	yield strength	180MPa	”
+“	Nb/Cu/Ni	tensile strength	180MPa	”
+“	Ag-Cu	yield strength	180MPa	”
+“	Cu/W	thermal conductivity	180W/mK	”
+“	Gr/Cu-C	thermal conductivity	180W/mK	”
+“	Cu-W	hardness	181HV	”
+“	Mn-1.5Cu	yield strength	182MPa	”
+“	Cu-0.45Co-0.23Ti	hardness	183.57HV	”
+“	Cu-free	tensile strength	1830MPa	”
+“	Cu-Cr-Zr-Ce	hardness	183HV	”
+“	CNTs/Cu	yield strength	183MPa	”
+“	Cu-containing	hardness	184HV	”
+“	Cu:SS	hardness	1850HV	”
+“	Cu-Al2O3	tensile strength	185MPa	”
+“	Cu-Al2O3	yield strength	185MPa	”
+“	CNtensilestrength/Cu	tensile strength	185MPa	”
+“	CNTs/Cu	yield strength	185MPa	”
+“	Cu-added	yield strength	186.84MPa	”
+“	Al-Mg-Si-Cu	yield strength	186MPa	”
+“	Cu-Cr-Zr-Mg-Si	hardness	187HV	”
+“	72Ag28Cu-2Ti	hardness	187HV	”
+“	Cu/Al	hardness	188.7HV	”
+“	AlA-Cu	tensile strength	189.16MPa	”
+“	AlA-Cu	yield strength	189.16MPa	”
+“	Cu-Cr-Zr	tensile strength	189MPa	”
+“	Cu-Ti	electrical conductivity	19.2%IACS	”
+“	Cu-Ti	electrical conductivity	19.2%IACS	”
+“	Cu-ABA	coefficient of thermal expansion	19.5e-6/K	”
+“	Cu-ABA	coefficient of thermal expansion	19.5e-6/K	”
+“	Cu-11Al-5Mn-0.7Ti	hardness	190.1HV	”
+“	Al-5.0Cu-0.6Mn-1.5RE	tensile strength	190.52MPa	”
+“	Al-Cu	hardness	190HV	”
+“	Cu-12Ni-17Zn-1.7Al	hardness	190HV	”
+“	Cu-4wt%	hardness	190HV	”
+“	AlCu	tensile strength	190MPa	”
+“	Ti50Cu43Ni7	yield strength	1914MPa	”
+“	CuCrZr	hardness	192.77HV	”
+“	(Ti33Zr33Hf33)50(Ni33Cu33Fe33)50	yield strength	1924MPa	”
+“	Al-33Cu	hardness	193HV	”
+“	bulk/Cu	hardness	195.3HV	”
+“	Ti6Al4V/Cu	tensile strength	198-225MPa	”
+“	Cu-12.7Au	hardness	198HV	”
+“	Cu-0.39Cr-0.24Zr-0.072Mg-0.021Si	hardness	198HV	”
+“	Mn-0.8Cu	tensile strength	198MPa	”
+“	Mn-0.8Cu	yield strength	198MPa	”
+“	Cu-7Ag	electrical conductivity	2.5%IACS	”
+“	CuNWs	thermal conductivity	2.59W/mK	”
+“	agar/CuAAA	tensile strength	2.7MPa	”
+“	Cu-2.7Ti	electrical conductivity	20.1%IACS	”
+“	Cu-Ti	electrical conductivity	20.1%IACS	”
+“	Cu/X	yield strength	200±100MPa	”
+“	Cu/Cr	yield strength	200±100MPa	”
+“	Cu/diamond	thermal conductivity	2000W/mK	”
+“	Ta/Cu	hardness	200-270HV	”
+“	W-Cu	hardness	200-350HV	”
+“	W-Cu	hardness	200-350HV	”
+“	Al0.5CoCrCuFeNi	hardness	200HV	”
+“	δ-Ferrite + Cu	hardness	200HV	”
+“	Cu-CNT	tensile strength	200MPa	”
+“	graphene/Cu	yield strength	200MPa	”
+“	Cu-Cr-Zr	yield strength	200MPa	”
+“	Ti/Cu	tensile strength	200MPa	”
+“	Cu-rich	yield strength	200MPa	”
+“	Cu-rich	yield strength	200MPa	”
+“	Al-8.8Si-1.7Cu-0.4	tensile strength	200MPa	”
+“	Al-8.8Si-1.7Cu-0.4	yield strength	200MPa	”
+“	Cu-Mn	tensile strength	200MPa	”
+“	weld-Cu	tensile strength	200MPa	”
+“	Cu-W	thermal conductivity	200W/mK	”
+“	W/Cu	thermal conductivity	200W/mK	”
+“	W-23.5wt.%Cu	thermal conductivity	200W/mK	”
+“	CuW	thermal conductivity	200W/mK	”
+“	S-Cu+Al2O3	hardness	201.1HV	”
+“	ZnCuFe	tensile strength	202.3MPa	”
+“	Cu-Ni-Si-V	hardness	202HV	”
+“	Mg-6Zn-4Al-0.5Cu	tensile strength	202MPa	”
+“	Mg-6Zn-4Al-0.5Cu	yield strength	202MPa	”
+“	Cu-2.0Ni-0.5Si	hardness	203HV	”
+“	W-Cu	tensile strength	204MPa	”
+“	W-Cu	yield strength	204MPa	”
+“	Cu-Ni-Si-X	electrical conductivity	20-50%IACS	”
+“	CuCrZr	yield strength	205MPa	”
+“	CuCrZr	tensile strength	205MPa	”
+“	Al-5Cu	yield strength	205MPa	”
+“	Al-5Cu	tensile strength	205MPa	”
+“	Cu-Zn	yield strength	206MPa	”
+“	Al-Si-Cu	tensile strength	206MPa	”
+“	Al-Si-Cu	yield strength	206MPa	”
+“	Al-10Si-1.2Cu-0.7Mn	tensile strength	206MPa	”
+“	Al-10Si-1.2Cu-0.7Mn	yield strength	206MPa	”
+“	Cu-0.45Cr-0.2Zr-xLa	tensile strength	207MPa	”
+“	Fe-Cu	tensile strength	207MPa	”
+“	Fe-Cu	yield strength	207MPa	”
+“	Cu/Al	tensile strength	209.25MPa	”
+“	Ti35Ni35Cu15Zr15	yield strength	2106MPa	”
+“	Al-Cu	tensile strength	210MPa	”
+“	Al-Cu	yield strength	210MPa	”
+“	W85Cu15	thermal conductivity	210W/mK	”
+“	CNT/Cu	tensile strength	212MPa	”
+“	Zn-3Cu	yield strength	213.7MPa	”
+“	Q-Al5Cu2Mg8Si6	tensile strength	214.4MPa	”
+“	Cu-1Cr-1Co-0.6Si	hardness	214.6HV	”
+“	CuCrZr	yield strength	214MPa	”
+“	Al-Cu	hardness	215HV	”
+“	Al-5%Cu-7%Si3N4	yield strength	215MPa	”
+“	Cu-Cr	hardness	216HV	”
+“	W-Mo-Cu	hardness	217.8HV	”
+“	Curve	yield strength	2180MPa	”
+“	Cu-0.89Cr-0.44Ag	hardness	219.2HV	”
+“	Cu-Al	yield strength	22.4MPa	”
+“	W-Mo-Cu	hardness	220.1HV	”
+“	Ti-Cu	hardness	220-270HV	”
+“	Cu-1.5%Ti	hardness	220HV	”
+“	W-Cu	hardness	220HV	”
+“	Cu-50Cr	hardness	220HV	”
+“	Cu-Sn	tensile strength	220MPa	”
+“	Al-Cu	tensile strength	220MPa	”
+“	Al-Cu	yield strength	220MPa	”
+“	Cu/Nb	tensile strength	222MPa	”
+“	Cu-0.45Cr-0.2Zr	tensile strength	222MPa	”
+“	Zn-3Cu	tensile strength	223±4MPa	”
+“	Zn-3Cu	yield strength	223±4MPa	”
+“	Zn-3Cu	tensile strength	223±4MPa	”
+“	Al7Si2Cu0.2Zr	tensile strength	224MPa	”
+“	Al7Si2Cu0.2Zr	yield strength	224MPa	”
+“	CuZn-based	hardness	225HV	”
+“	30Cu-CNTs	yield strength	174-225MPa	”
+“	nc-Cu	yield strength	226MPa	”
+“	20Ti2AlC/Cu	tensile strength	226MPa	”
+“	20Ti2AlC/Cu	yield strength	226MPa	”
+“	4%Cu	tensile strength	226MPa	”
+“	Zn-4Cu	tensile strength	227±5MPa	”
+“	Zn-4Cu	yield strength	227±5MPa	”
+“	Cu-10at.%Mn	hardness	227±6HV	”
+“	TiB2/Cu-0	tensile strength	228.2MPa	”
+“	Cu5Zr	yield strength	229.65MPa	”
+“	W-Cu	hardness	230.5HV	”
+“	Cu/Zr	yield strength	230±80MPa	”
+“	Cu-1.5Ni-1.0Co-0.6Si	hardness	230HV	”
+“	Cu-1.4Ni-0.6Si-1.2Co	hardness	230HV	”
+“	Al-Cu-Ni	tensile strength	230MPa	”
+“	Cu-Cr-Zr	yield strength	230MPa	”
+“	Zn-4.0Cu	yield strength	230MPa	”
+“	CuCrZr	tensile strength	230MPa	”
+“	V/Cu	tensile strength	230MPa	”
+“	GN/Cu	yield strength	231MPa	”
+“	GN/Cu	tensile strength	231MPa	”
+“	Mo-10wt%Cu	hardness	233HV	”
+“	and-Cu	yield strength	233MPa	”
+“	Al-40Cu	hardness	234HV	”
+“	A356-1.5Cu-0.6Sc	tensile strength	236.9MPa	”
+“	A356-1.5Cu-0.6Sc	yield strength	236.9MPa	”
+“	Cu-0.66Cr	tensile strength	236MPa	”
+“	Cu-Al2O3-Lais	tensile strength	236MPa	”
+“	Cu-Al2O3-Lais	yield strength	236MPa	”
+“	Cu-Al2O3	yield strength	237MPa	”
+“	Cu-Al2O3	tensile strength	237MPa	”
+“	Al-6.3%Cu	tensile strength	237MPa	”
+“	Al-6.5%Cu	yield strength	237MPa	”
+“	Cu/1	yield strength	237MPa	”
+“	Al-Si-Cu/SiCp	hardness	238HV	”
+“	Cu-0.5Al	hardness	238HV	”
+“	Cu-0.5Al	hardness	238HV	”
+“	W-20wt.%Cu	thermal conductivity	239W/mK	”
+“	Cu50Ni37.5Cr12.5	hardness	240.5HV	”
+“	(4CNT-1TiB2)/Cu	tensile strength	240±3MPa	”
+“	Cu-1wt.%	hardness	240HV	”
+“	18Cr9Ni3CuNbN	hardness	240Hv	”
+“	Al-Cu	yield strength	241MPa	”
+“	Al-Cu	tensile strength	241MPa	”
+“	Cu-3	tensile strength	242MPa	”
+“	Cu-3	yield strength	242MPa	”
+“	Mg-Zn-Cu-Gd	hardness	243-286Hv	”
+“	Cu-3Si-0.47wt%Ti	hardness	243HV	”
+“	Cu-3Si-0.47wt%Ti	hardness	243HV	”
+“	Cu-0.5Cr	yield strength	243MPa	”
+“	Cu-0.5Cr	tensile strength	243MPa	”
+“	Mg60Cu30Y10	hardness	244-347Hv	”
+“	Cu-1.5Ni-1.5Co-0.6Si	hardness	244HV	”
+“	Cu-1.5Ni-1.0Co-0.6Si	hardness	244HV	”
+“	ε-Cu	hardness	245HV	”
+“	CNT-GN/Cu	yield strength	246.9MPa	”
+“	Al7Si2Cu0.2Zr	yield strength	246MPa	”
+“	Al7Si2Cu0.2Zr	tensile strength	246MPa	”
+“	Cu-11Al-5Mn-0.7Ti-2Ta	hardness	247.2HV	”
+“	Cu-8Ag	hardness	248Hv	”
+“	Mg-3Zn-1Y-4Cu	tensile strength	248MPa	”
+“	Mg-3Zn-1Y-4Cu	yield strength	248MPa	”
+“	ε-Cu	yield strength	248MPa	”
+“	ε-Cu	yield strength	248MPa	”
+“	Cu-11.85Al-3.2Ni-3Mn	hardness	249.3HV	”
+“	Cu-free	tensile strength	249MPa	”
+“	Cu-free	yield strength	249MPa	”
+“	Cu-Ni-Si	electrical conductivity	25.1%IACS	”
+“	Cu-Ni-Si	electrical conductivity	25.2%IACS	”
+“	Cu-Ni-Si	electrical conductivity	25.2%IACS	”
+“	np-Cu	yield strength	25.4MPa	”
+“	Zn-4Cu	tensile strength	250±10MPa	”
+“	Zn-4Cu	yield strength	250±10MPa	”
+“	W-30wt.%Cu	hardness	250-300HV	”
+“	Cu-4-7Ni-3Al	hardness	250HV	”
+“	Cu-6Ti	hardness	250HV	”
+“	Cu-1.5Ni-1.0Co-0.6Si	hardness	250HV	”
+“	Cu-1.5Ni-1.0Co-0.6Si	hardness	250HV	”
+“	Cu-Ni-Si-Zn	hardness	250Hv	”
+“	Cu-Ti	yield strength	253MPa	”
+“	Cu-Ti	tensile strength	253MPa	”
+“	Al-Cu-Li	tensile strength	253MPa	”
+“	Al-Cu-Li	yield strength	253MPa	”
+“	Al-Cu	tensile strength	254MPa	”
+“	Ni-Cu	yield strength	254MPa	”
+“	Al-Cu	yield strength	254MPa	”
+“	Al-Cu	tensile strength	254MPa	”
+“	Cu-Sn	tensile strength	255MPa	”
+“	Cu-rich	hardness	257HV	”
+“	Mg-1Cu-9Al	yield strength	257MPa	”
+“	316L-3.5Cu	tensile strength	257MPa	”
+“	316L-3.5Cu	yield strength	257MPa	”
+“	Cu-2wt%	hardness	258HV	”
+“	CNtensilestrength/Al-Cu	tensile strength	258MPa	”
+“	Al/Cu/Al	tensile strength	259MPa	”
+“	Cu-8.0Ni-1.8Si-0.6Sn-0.15Mg	electrical conductivity	26.5%IACS	”
+“	Cu-Be	electrical conductivity	26.5%IACS	”
+“	Cu-Be	electrical conductivity	26.5%IACS	”
+“	Cu-8.0Ni-1.8Si-0.6Sn-0.15Mg	electrical conductivity	26.5%IACS	”
+“	Cu-1.8Si-8.0Ni-(0.6Sn + 0.15 Mg)	electrical conductivity	26.5%IACS	”
+“	Al-Li-Cu	hardness	26.7HV	”
+“	GNSs/AlCu	yield strength	260MPa	”
+“	GNSs/AlCu	tensile strength	260MPa	”
+“	Al-Cu6.3	tensile strength	260MPa	”
+“	AlCu6.3	tensile strength	260MPa	”
+“	AlCu6.3	yield strength	260MPa	”
+“	WCu	hardness	261HV	”
+“	FeCoCuNiSn0.2	tensile strength	263MPa	”
+“	Ti-Cu	hardness	264HV	”
+“	Al-Cu	yield strength	264MPa	”
+“	Al-Cu	tensile strength	264MPa	”
+“	Al-Cu	yield strength	264MPa	”
+“	0.1Cu-CNT/GO	tensile strength	265.4MPa	”
+“	Cu-3Ti-3Ni-0.5Si	hardness	268HV	”
+“	2%Cu	tensile strength	268MPa	”
+“	Sn1.0Ag0.5Cu	tensile strength	27.3MPa	”
+“	Zn-4Cu	yield strength	270±10MPa	”
+“	Zn-4Cu	tensile strength	270±10MPa	”
+“	Cu-30Ni-1Al	hardness	270HV	”
+“	Cu-2.5Ni-(1.7Si + 0.3Fe)	hardness	270HV	”
+“	Cu-2wt%	tensile strength	270MPa	”
+“	Cu-0.5Cr	tensile strength	270MPa	”
+“	Cu-0.5Cr	yield strength	270MPa	”
+“	Cusil-ABA	tensile strength	271MPa	”
+“	Cusil-ABA	yield strength	271MPa	”
+“	Cu/Mg	tensile strength	272.1MPa	”
+“	WC-Cu	hardness	273HV	”
+“	Co-4Cu	hardness	274HV	”
+“	Cu-Mg-Ce	Tensile strength	274MPa	”
+“	Graphene/Cu-2	tensile strength	274MPa	”
+“	Graphene/Cu-4	yield strength	274MPa	”
+“	Ti2Cu	hardness	275HV	”
+“	Cu-rich	hardness	275HV	”
+“	W-Cu	hardness	275HV	”
+“	W-Cu	hardness	275HV	”
+“	Gr-Cu/SS	yield strength	275MPa	”
+“	Gr-Cu/SS	tensile strength	275MPa	”
+“	W-20Cu	hardness	278HV	”
+“	WC75-Cu25	hardness	278HV	”
+“	Cu-ABA	tensile strength	278MPa	”
+“	Cu-ABA	yield strength	278MPa	”
+“	Cu-ABA	tensile strength	278MPa	”
+“	Cu-ABA	yield strength	278MPa	”
+“	Cu-ABA	yield strength	278MPa	”
+“	Cu-ABA	yield strength	278MPa	”
+“	Cu-alloy.	tensile strength	279MPa	”
+“	3.5Cu	tensile strength	279MPa	”
+“	CuNiSiAl	electrical conductivity	28.1%IACS	”
+“	Cu-Ni-Si	electrical conductivity	28.1%IACS	”
+“	Cu-Ni-Si-Al	electrical conductivity	28.1%IACS	”
+“	CuCr25-2wt%	electrical conductivity	28.2%IACS	”
+“	CuI-FE	tensile strength	28.70MPa	”
+“	Cu-P-SiC	hardness	280HV	”
+“	Cu-2.5	hardness	280Hv	”
+“	CuCrZr	tensile strength	280MPa	”
+“	Cu8Al-AA18	tensile strength	280MPa	”
+“	Cu-1.5%	yield strength	280MPa	”
+“	Cu-4.5%	tensile strength	280MPa	”
+“	Cu-4.5%	yield strength	280MPa	”
+“	AlCuMgZr	yield strength	280MPa	”
+“	CNT/Cu-Ⅰ	tensile strength	280MPa	”
+“	Cu-matrix	tensile strength	280MPa	”
+“	GNSs/AlCu	tensile strength	280MPa	”
+“	GNSs/AlCu	yield strength	280MPa	”
+“	Al-Cu-Zr	tensile strength	284MPa	”
+“	graphene/Cu	yield strength	284MPa	”
+“	Cu-CuD	thermal conductivity	284W/mK	”
+“	Ti-C-Cu	hardness	285HV	”
+“	Ag-Cu-added	yield strength	286.39MPa	”
+“	Ag-Cu-added	tensile strength	286.39MPa	”
+“	Cu/Al/Cu	tensile strength	286MPa	”
+“	Cu-3	tensile strength	286MPa	”
+“	Cu-3Si-W	tensile strength	286MPa	”
+“	1.0wt.%Cu/CNT	thermal conductivity	287.2W/mK	”
+“	fiber/Cu	thermal conductivity	287W/mK	”
+“	Cu-40Zn-Cr-Fe-Sn-Bi	tensile strength	288MPa	”
+“	Cu-40Zn-Cr-Fe-Sn-Bi	yield strength	288MPa	”
+“	Cu-40Zn-Cr-Fe-Sn-Bi	tensile strength	288MPa	”
+“	Cu-40Zn-Cr-Fe-Sn-Bi	yield strength	288MPa	”
+“	Cu-13.5Al-4Ni-0.5Ti	hardness	289.1HV	”
+“	Cu-3Si-0.837	tensile strength	289.353MPa	”
+“	CNtensilestrength/Cu	tensile strength	289MPa	”
+“	CNTs/Cu	yield strength	289MPa	”
+“	Cu-Si	electrical conductivity	29.4%IACS	”
+“	Sn-Sb-Cu	hardness	29.8Hv	”
+“	GN/Cu	tensile strength	290.7MPa	”
+“	GN/Cu	yield strength	290.7MPa	”
+“	Cu-10Ni-3Al	hardness	290HV	”
+“	Al-Si-Cu	yield strength	290MPa	”
+“	Al-Si-Cu	tensile strength	290MPa	”
+“	Cu-0.82Cr	yield strength	292MPa	”
+“	Cu-Co	hardness	295±11HV	”
+“	Al0.4CoCu0.6Ni	yield strength	295MPa	”
+“	4Cu	hardness	3.1HV	”
+“	Cu-ABA	coefficient of thermal expansion	3.2e-6/K	”
+“	Zn-0.75Mn-0.40Cu	yield strength	3.2MPa	”
+“	Zn-0.75Mn-0.40Cu	tensile strength	3.2MPa	”
+“	3wt%Mg2Si/Al-5Cu	tensile strength	3.2MPa	”
+“	Zn-0.35Mn-0.41Cu	yield strength	3.4MPa	”
+“	Zn-0.35Mn-0.41Cu	tensile strength	3.4MPa	”
+“	CuFeO2	thermal conductivity	3.5W/mK	”
+“	CuFeO2	thermal conductivity	3.5W/mK	”
+“	Mo-Cu	hardness	3.6Hv	”
+“	Zn-0.75Mn-0.40Cu	yield strength	3.7MPa	”
+“	Zn-0.75Mn-0.40Cu	tensile strength	3.7MPa	”
+“	Cu-Ni-Co-Si-Mg	electrical conductivity	30.1%IACS	”
+“	CuNiSi	hardness	300.2HV	”
+“	204Cu	hardness	300-350HV	”
+“	Cu/Dia	thermal conductivity	300-900W/mK	”
+“	Cu-Ni-Si-Cr	hardness	300Hv	”
+“	Cu-Sn-Zn-5	hardness	300HV	”
+“	Cu-3Ti-1Cr	hardness	300HV	”
+“	Cu-interlayer	hardness	300Hv	”
+“	Cu3Sn-rich	hardness	300HV	”
+“	Al-Si-Cu-Mg	yield strength	300MPa	”
+“	CuAl7	tensile strength	300MPa	”
+“	CuAl7	yield strength	300MPa	”
+“	CuAg0.1	yield strength	300MPa	”
+“	Cu-based	tensile strength	300MPa	”
+“	Cu/CNT	thermal conductivity	300W/mK	”
+“	Cu/CNT	thermal conductivity	300W/mK	”
+“	Mg-3Zn-1Y-4Cu	yield strength	302MPa	”
+“	Mg-3Zn-1Y-4Cu	tensile strength	302MPa	”
+“	Mn-0.8Cu	yield strength	303MPa	”
+“	Mn-0.8Cu	tensile strength	303MPa	”
+“	PWAA-Cu	tensile strength	304.0MPa	”
+“	Cu-Ni-Si	electrical conductivity	30-40%IACS	”
+“	Al-Cu	tensile strength	304MPa	”
+“	Al-Cu	yield strength	304MPa	”
+“	Mg-6Zn-0.5Zr-0.5Cu-0.5Ce	tensile strength	304MPa	”
+“	Mg-6Zn-0.5Zr-0.5Cu-0.5Ce	yield strength	304MPa	”
+“	Mn-0.8Cu	yield strength	305MPa	”
+“	Mn-0.8Cu	tensile strength	305MPa	”
+“	Al-Cu	tensile strength	307.6MPa	”
+“	Al-Cu	yield strength	307.6MPa	”
+“	Al-Cu	tensile strength	307MPa	”
+“	Al-Cu	yield strength	307MPa	”
+“	W80-Cu20	tensile strength	308.74MPa	”
+“	W80-Cu20	yield strength	308.74MPa	”
+“	W80-Cu20	tensile strength	308.74MPa	”
+“	W80-Cu20	yield strength	308.74MPa	”
+“	Al-Si-Cu	yield strength	308-321MPa	”
+“	Al-Si-Cu	tensile strength	308-321MPa	”
+“	CNT-RGO/Cu	tensile strength	308MPa	”
+“	CNT-RGO/Cu	yield strength	308MPa	”
+“	Cu-10Ni-3Al-0.8Si	hardness	309.3HV	”
+“	Cu-Al2O3-Lais	yield strength	309MPa	”
+“	Cu-Al2O3-Lais	tensile strength	309MPa	”
+“	Cu-Al2O3-La	tensile strength	309MPa	”
+“	Cu-Al2O3-La	yield strength	309MPa	”
+“	99.99Cu	yield strength	309MPa	”
+“	99.99Cu	tensile strength	309MPa	”
+“	Cu50Ni37.5Al12.5	hardness	310.1HV	”
+“	Cu50Ni37.5Al12.5	hardness	310.1HV	”
+“	Ti/Cu/Fe	tensile strength	310MPa	”
+“	Al-Cu-25Ni/SiC	tensile strength	310MPa	”
+“	CNTs/Cu	yield strength	311MPa	”
+“	CNtensilestrength/Cu	tensile strength	311MPa	”
+“	AlCu	tensile strength	312.6MPa	”
+“	CuZn5	hardness	312.8HV	”
+“	Al4.2Cu3.2Zn0.7.	hardness	312.8HV	”
+“	Mg-6Zn-4Al-0.5Cu	yield strength	312MPa	”
+“	Mg-6Zn-4Al-0.5Cu	tensile strength	312MPa	”
+“	Cu-CrD	thermal conductivity	312W/mK	”
+“	Mg2Si/Al-Cu	tensile strength	315MPa	”
+“	Gr-Cu/SS	tensile strength	315MPa	”
+“	Gr-Cu/SS	yield strength	315MPa	”
+“	Ti41.7-Zr26.7-Ni13.8-Cu14.7-Co3.1	tensile strength	316MPa	”
+“	Cu-xB	thermal conductivity	316W/mK	”
+“	Mo-10Cu	tensile strength	317MPa	”
+“	Mg-6Zn-4Al-1Cu	yield strength	317MPa	”
+“	Mg-6Zn-4Al-1Cu	tensile strength	317MPa	”
+“	Fe-Cu	yield strength	317MPa	”
+“	Fe-Cu	tensile strength	317MPa	”
+“	Cubic	hardness	3200HV	”
+“	Cu-Zn	hardness	320HV	”
+“	Al-Si-Cu	yield strength	320MPa	”
+“	Al-Si-Cu	tensile strength	320MPa	”
+“	CuBe	yield strength	320MPa	”
+“	0.8Al-0.2-0.2Cu-5wt.%	thermal conductivity	320W/mK	”
+“	0.8Al-0.2-0.2Cu-5wt.%	thermal conductivity	320W/mK	”
+“	Cu/CNT	thermal conductivity	320W/mK	”
+“	99.99Cu	tensile strength	321MPa	”
+“	99.99Cu	yield strength	321MPa	”
+“	Cu-1.5CNTs-0.5Al2O3	yield strength	324MPa	”
+“	Cu-1.5CNTs-0.5Al2O3	tensile strength	324MPa	”
+“	Cu80Al13Ni3Hf4	hardness	325HV	”
+“	Cu-Al	tensile strength	326.5MPa	”
+“	Zn4Cu	tensile strength	327.1MPa	”
+“	Zn4Cu	yield strength	327.1MPa	”
+“	Cu-free	yield strength	328MPa	”
+“	Cu-free	tensile strength	328MPa	”
+“	Cu/7	yield strength	328MPa	”
+“	Cu-3Ti-3Ni-0.5Si	electrical conductivity	33.79%IACS	”
+“	Si:Cu	hardness	330HV	”
+“	Si:Cu	hardness	330HV	”
+“	Cu-Sn-Zn	hardness	330HV	”
+“	Cu-Ag	tensile strength	330MPa	”
+“	Cu-8.1at%Mg	yield strength	330MPa	”
+“	Al-5Cu	tensile strength	330MPa	”
+“	Al-5Cu	yield strength	330MPa	”
+“	Al-Si-Cu	yield strength	331MPa	”
+“	Al-Si-Cu	tensile strength	331MPa	”
+“	Al-10Si-1.2Cu-0.7Mn	yield strength	331MPa	”
+“	Al-10Si-1.2Cu-0.7Mn	tensile strength	331MPa	”
+“	CuCr2Fe2NiMn	hardness	334HV	”
+“	Cu-B-Ti	hardness	335HV	”
+“	5182-ZnCu	yield strength	335MPa	”
+“	Cu-Zn	hardness	337HV	”
+“	Al-Cu	yield strength	338MPa	”
+“	Al-Cu	tensile strength	338MPa	”
+“	Cu-matrix	hardness	3400HV	”
+“	Cu-2.7Ti	hardness	340Hv	”
+“	Cu-30Zn	tensile strength	340MPa	”
+“	Al/Cu	yield strength	340MPa	”
+“	Cu-Al2O3	thermal conductivity	340W/mK	”
+“	Cu-containing	yield strength	341.1MPa	”
+“	Cu-Be	hardness	341HV	”
+“	CuNiSiAl	hardness	343HV	”
+“	Cu-Ni-Si	hardness	343Hv	”
+“	Cu-Ni-Si-Al	hardness	343HV	”
+“	Cu/CNT	thermal conductivity	343W/mK	”
+“	Cu-1.8Si-8.0Ni-(0.6Sn + 0.15 Mg)	hardness	345HV	”
+“	Cu2ZnTi	yield strength	345MPa	”
+“	Cu2ZnTi	tensile strength	345MPa	”
+“	16MnCu	Yield strength	345MPa	”
+“	Cu-1.5CNTs-0.5Al2O3	tensile strength	345MPa	”
+“	Cu-1.5CNTs-0.5Al2O3	yield strength	345MPa	”
+“	Mg-6Zn-0.5Zr-0.5Cu-0.5Ce	yield strength	345MPa	”
+“	Mg-6Zn-0.5Zr-0.5Cu-0.5Ce	tensile strength	345MPa	”
+“	Cu3P	tensile strength	346MPa	”
+“	Cusil-ABA	yield strength	346MPa	”
+“	Cusil-ABA	tensile strength	346MPa	”
+“	Mg60Cu27Ti3Y10	hardness	347Hv	”
+“	Cu-37	hardness	349HV	”
+“	Zn-0.5Cu	hardness	35.84HV	”
+“	Cu-Al-Mn	hardness	350HV	”
+“	Cu-0.5%CNtensilestrength@1000	tensile strength	350MPa	”
+“	Cu-0.5%CNtensilestrength@1000	tensile strength	350MPa	”
+“	Al2Cu	yield strength	436MPa	”
+“	Cu-filled	tensile strength	351MPa	”
+“	Cu-filled	yield strength	351MPa	”
+“	5182-ZnCu	yield strength	353MPa	”
+“	Cu-0.8wt%C	tensile strength	353MPa	”
+“	Cu-0.8wt%C	yield strength	353MPa	”
+“	CNT/Cu-Ti	tensile strength	355MPa	”
+“	Cu-Ti	tensile strength	355MPa	”
+“	Cu20Nb	tensile strength	357MPa	”
+“	W/CuCrZr	hardness	358±8HV	”
+“	W/CuCrZr	hardness	358±8HV	”
+“	Cu-1vol%CNT	thermal conductivity	359.2W/mK	”
+“	Cu/CNT	thermal conductivity	359.2W/mK	”
+“	W-Cu	yield strength	359MPa	”
+“	W-Cu	tensile strength	359MPa	”
+“	Cu-2.0Ni-0.5Si	electrical conductivity	36.4%IACS	”
+“	Cu-NbC	hardness	360HV	”
+“	Au49Ag5.5Pd2.3Cu26.9Si16.3	hardness	360HV	”
+“	Au49Ag5.5Pd2.3Cu26.9Si16.3	hardness	360HV	”
+“	Cu-multilayer	yield strength	360MPa	”
+“	Cu-Zn	hardness	361HV	”
+“	CuCrZr	yield strength	361MPa	”
+“	CuCrZr	tensile strength	361MPa	”
+“	MWCNTs/Cu	tensile strength	361MPa	”
+“	Al-4Cu-10ZrN	tensile strength	362.4MPa	”
+“	WC25-Cu75	hardness	362HV	”
+“	Al-Cu	tensile strength	363.2MPa	”
+“	Al-Cu	yield strength	363.2MPa	”
+“	Al-Cu	yield strength	363.2MPa	”
+“	Cu8Al0.2Ti	tensile strength	363MPa	”
+“	Al-Cu	yield strength	363MPa	”
+“	Cu-30%Zn	yield strength	364MPa	”
+“	0.5wt%Cu	tensile strength	365.9MPa	”
+“	0.5wt%Cu	yield strength	365.9MPa	”
+“	Cu-interface	hardness	365±14HV	”
+“	Al/CuAl2	hardness	366HV	”
+“	FeMnNiCuCoSn0.2	tensile strength	367.7MPa	”
+“	TiCp/Al-Cu-Mg-Si	tensile strength	367MPa	”
+“	TiCp/Al-Cu-Mg-Si	yield strength	367MPa	”
+“	Cu-15Ni-8Sn-0.4V	hardness	368HV	”
+“	CNtensilestrength/Cu-Ti	tensile strength	368MPa	”
+“	CNTs/Cu-Ti	Yield strength	368MPa	”
+“	Al2Cu	hardness	370HV	”
+“	CuCrZr	tensile strength	370MPa	”
+“	Al-8.8Si-1.7Cu-0.4	yield strength	370MPa	”
+“	Al-8.8Si-1.7Cu-0.4	tensile strength	370MPa	”
+“	AlCu4.4Mg1.5	yield strength	374MPa	”
+“	AlCu4.4Mg1.5	tensile strength	374MPa	”
+“	Al-Cu	tensile strength	375MPa	”
+“	(1CNTs-4TiB2)/Cu	tensile strength	375MPa	”
+“	Al-Cu	tensile strength	376MPa	”
+“	Al-Cu-Li	yield strength	376MPa	”
+“	Al-Cu-Li	tensile strength	376MPa	”
+“	W70Cu30	electrical conductivity	38.3%IACS	”
+“	Sn9Zn-1Al2O3-4.5Cu	hardness	38.41HV	”
+“	Cu-2.5Ni-(0.5-1.0)Co-1.0Si	electrical conductivity	38.5%IACS	”
+“	Cu-3Si	electrical conductivity	38.6%IACS	”
+“	Al-Cu	hardness	380-400HV	”
+“	Al-Cu-Sc	yield strength	380MPa	”
+“	Fe-2.5Cu	tensile strength	380MPa	”
+“	Cu-Al2O3/GNPs	thermal conductivity	380W/mK	”
+“	Cu-Ni-Si	hardness	381HV	”
+“	Cu-Sn-Zn-1	hardness	382HV	”
+“	CuSn10Pb10	yield strength	383MPa	”
+“	Ti/Cu66V34/Cu	tensile strength	384MPa	”
+“	CNT/Al-Cu	yield strength	384MPa	”
+“	CNT/Al-Cu	tensile strength	384MPa	”
+“	Al4.2Cu3.2Zn0.7	hardness	388.2HV	”
+“	0.5wt%Cu	yield strength	388.4MPa	”
+“	0.5wt%Cu	tensile strength	388.4MPa	”
+“	Nb13Cu8Ni6.8Al6.2	hardness	388HV	”
+“	Cu-mineralized	tensile strength	39.4MPa	”
+“	Mg-5Zn-3.5Sn-1Mn-0.5Ca-0.5Cu	tensile strength	392MPa	”
+“	Mg-5Zn-3.5Sn-1Mn-0.5Ca-0.5Cu	yield strength	392MPa	”
+“	Cu-11Al-5Mn-0.7Ti-2Ta	tensile strength	393.3MPa	”
+“	Zn4Cu	yield strength	393.3MPa	”
+“	Zn4Cu	tensile strength	393.3MPa	”
+“	Cu-OFE	thermal conductivity	393W/mK	”
+“	AlCuMg	tensile strength	395MPa	”
+“	AlCuMg	yield strength	395MPa	”
+“	V/Cu	tensile strength	395MPa	”
+“	MWCNTs/Cu	tensile strength	395MPa	”
+“	CNT/Cu	thermal conductivity	395W/mK	”
+“	film/Cu/Al	thermal conductivity	397-805W/mK	”
+“	Curve	tensile strength	398.93MPa	”
+“	WC25-Cu75	hardness	398HV	”
+“	(CuNPs-CuNWs)@PDA/PI	thermal conductivity	4.13W/mK	”
+“	10wt%(CuNPs-CuNWs)@PDA/P	thermal conductivity	4.13W/mK	”
+“	Cu50Ni37.5Cr12.5	electrical conductivity	4.16%IACS	”
+“	CP-Cu	tensile strength	4.4MPa	”
+“	Cu-10Gr-20Gn.	electrical conductivity	4.51%IACS	”
+“	steel/Ag-26.7Cu-4.5Ti/yieldstrengthZ	yield strength	4.5MPa	”
+“	Sn-5Sb-0.7Cu	tensile strength	40.0MPa	”
+“	W-20Cu	electrical conductivity	40.1%IACS	”
+“	W-20Cu	electrical conductivity	40.1%IACS	”
+“	W/Cu	tensile strength	40.11MPa	”
+“	W/Cu	tensile strength	40.11MPa	”
+“	Cu5%TiC	electrical conductivity	40.31%IACS	”
+“	Cu-Be	hardness	400HV	”
+“	CuCrZr	tensile strength	400MPa	”
+“	CuCrZr	yield strength	400MPa	”
+“	Al-Si-Cu	tensile strength	400MPa	”
+“	AlMgZn(Cu)	yield strength	400MPa	”
+“	Cu-3.17wt%Ti	yield strength	400MPa	”
+“	Cu-rich	thermal conductivity	400W/mK	”
+“	Mg-5Zn-3.5Sn-1Mn-0.5Ca-0.5Cu	yield strength	401MPa	”
+“	Mg-5Zn-3.5Sn-1Mn-0.5Ca-0.5Cu	tensile strength	401MPa	”
+“	Al-Cu-Mg	tensile strength	402MPa	”
+“	Al-6.8Zn-6.5Si-2Mg-1.3Cu	tensile strength	402MPa	”
+“	Al-6.8Zn-6.5Si-2Mg-1.3Cu	yield strength	402MPa	”
+“	Al-Zn-Mg-Cu	tensile strength	405MPa	”
+“	Cu-0.13Cr-0.074Ag	tensile strength	405MPa	”
+“	AlCu	tensile strength	406.3MPa	”
+“	Cu-0.45Co-0.23Ti	yield strength	409.99MPa	”
+“	Cu-0.45Co-0.23Ti	tensile strength	409.99MPa	”
+“	Cu-5%	electrical conductivity	41.6%IACS	”
+“	Cu-1Cr-1Co-0.6Si	electrical conductivity	41.6%IACS	”
+“	SiCp/Al-Cu-Mg-Si-Mn	tensile strength	410MPa	”
+“	SiCp/Al-Cu-Mg-Si-Mn	yield strength	410MPa	”
+“	CNTs/Cu	yield strength	411MPa	”
+“	CNtensilestrength/Cu	tensile strength	411MPa	”
+“	CNT-RGO/Cu	yield strength	412MPa	”
+“	CNT-RGO/Cu	tensile strength	412MPa	”
+“	CNT-RGO/Cu	tensile strength	412MPa	”
+“	TiCp/Al-Cu-Mg-Si	yield strength	412MPa	”
+“	TiCp/Al-Cu-Mg-Si	tensile strength	412MPa	”
+“	Ti/Cu	tensile strength	412MPa	”
+“	Al2Cu	hardness	413HV	”
+“	Cu-Cr-Zr	tensile strength	413MPa	”
+“	TiCu	hardness	415HV	”
+“	Cu-2wt%	tensile strength	415MPa	”
+“	Cu-Al2O3	tensile strength	417MPa	”
+“	AlCuMgSi	tensile strength	419MPa	”
+“	AlCuMgSi	yield strength	419MPa	”
+“	Mg+Si+Cu	electrical conductivity	42.5%IACS	”
+“	C/C-Cu	thermal conductivity	42.5W/mK	”
+“	Cu-0.5	tensile strength	420-485MPa	”
+“	Cu-0.5	yield strength	420-485MPa	”
+“	Pt49.95Cu16.65Si6.4Ge3B24	hardness	420HV	”
+“	Cu-Sn-Zn-Pb	tensile strength	420MPa	”
+“	CuTiMo	yield strength	420MPa	”
+“	Ti/V/Cu	tensile strength	420MPa	”
+“	Cu-10%Sn	tensile strength	420MPa	”
+“	CuCrZr	tensile strength	421MPa	”
+“	CuCrZr	yield strength	421MPa	”
+“	AlCuMgSi	tensile strength	424MPa	”
+“	AlCuMgSi	yield strength	424MPa	”
+“	Cu-0.8wt%C	yield strength	428MPa	”
+“	Cu-0.8wt%C	tensile strength	428MPa	”
+“	Ti-Cu	hardness	430HV	”
+“	Ag60Cu40	yield strength	430MPa	”
+“	Al-Cu-Mg	tensile strength	430MPa	”
+“	Al-1.0Mg-0.5Si-0.8Cu	yield strength	430MPa	”
+“	Al-1.0Mg-0.5Si-0.8Cu	tensile strength	430MPa	”
+“	Cu-rich	yield strength	433.5MPa	”
+“	Al-Cu-Mn	tensile strength	434MPa	”
+“	Mg-Cu-Gd	hardness	436HV	”
+“	Cu-rich	hardness	438HV	”
+“	diamond/Cu-2	thermal conductivity	439W/mK	”
+“	WS2:Cu/60:40	hardness	44.11HV	”
+“	Cu-GP	hardness	44.61HV	”
+“	AlMgSiCuCrZr	tensile strength	440MPa	”
+“	Al-Cu	tensile strength	440MPa	”
+“	MgSnCu	hardness	441.98Hv	”
+“	Zr-Ti-Al-Fe-Cu-Ag	hardness	443-460HV	”
+“	nt-Cu	tensile strength	443MPa	”
+“	nt-Cu	yield strength	443MPa	”
+“	3%Cu	tensile strength	445.43MPa	”
+“	Cu-Ni	hardness	445±25HV	”
+“	AlCuMg	yield strength	446MPa	”
+“	AlCuMg	tensile strength	446MPa	”
+“	Cu-1.95	yield strength	446MPa	”
+“	Al-6.8Zn-6.5Si-2Mg-1.3Cu	yield strength	449MPa	”
+“	Al-6.8Zn-6.5Si-2Mg-1.3Cu	tensile strength	449MPa	”
+“	Cu-2.3Ni-0.7Co-0.7Si	electrical conductivity	45.2%IACS	”
+“	B2-CuZr	yield strength	450-490MPa	”
+“	CuAg	hardness	450-650HV	”
+“	TiZrCuNi	hardness	450HV	”
+“	Ag-Cu-Ti/TiX	hardness	450HV	”
+“	CuCrZr	hardness	450Hv	”
+“	W-Cu	hardness	450HV	”
+“	W-Cu	hardness	450HV	”
+“	Cu-0.85Cr-0.09Zr	tensile strength	450MPa	”
+“	Cu-Cr	tensile strength	450MPa	”
+“	Al-Zn-Mg-Cu	yield strength	450MPa	”
+“	Al-Zn-Mg-Cu	tensile strength	450MPa	”
+“	Al-6.3Cu	tensile strength	450MPa	”
+“	RGO/Cu	tensile strength	450MPa	”
+“	Al-Cu6.3	tensile strength	450MPa	”
+“	CNtensilestrength/Al-Cu	tensile strength	451MPa	”
+“	Mg72Cu5Zn23	yield strength	455MPa	”
+“	α-Mg+MgZn2+MgCuZn	yield strength	455MPa	”
+“	Al-45Zn-3Cu	tensile strength	455MPa	”
+“	AlCuMgSi	yield strength	457MPa	”
+“	AlCuMgSi	tensile strength	457MPa	”
+“	Cu-3Si	electrical conductivity	46.3%IACS	”
+“	PDA-Cu-UHMWPE	tensile strength	46.5MPa	”
+“	W-Cu	electrical conductivity	46.7%IACS	”
+“	W/Cu	tensile strength	46.75MPa	”
+“	W-Cu	electrical conductivity	46.8%IACS	”
+“	W-Cu	electrical conductivity	46.8%IACS	”
+“	Cu-nanofibers	tensile strength	46.8MPa	”
+“	Cu-Cr-Zr	electrical conductivity	46.9%IACS	”
+“	Cu-(1and5)vol%Al2O3	yield strength	460-620MPa	”
+“	IF(IF-Cu)	tensile strength	460MPa	”
+“	IF(IF-Cu)	yield strength	460MPa	”
+“	1Cu	tensile strength	461MPa	”
+“	1Cu	yield strength	461MPa	”
+“	1Cu	tensile strength	461MPa	”
+“	1Cu	yield strength	461MPa	”
+“	nt-Cu	yield strength	462MPa	”
+“	nt-Cu	tensile strength	462MPa	”
+“	Cu50Zr40Ni5Ti5	hardness	463HV	”
+“	CuCrZr	hardness	463HV	”
+“	Al-Cu	yield strength	463MPa	”
+“	Al-Cu	tensile strength	463MPa	”
+“	Fe-x(Ni+P)-1Cu 	hardness	465.4HV	”
+“	Cu-rich	hardness	465HV	”
+“	W/CuCrZr	hardness	465HV	”
+“	Cu-4wt%	tensile strength	465MPa	”
+“	Al-Zn-Mg-Cu	yield strength	465MPa	”
+“	Cu-0.1Ag	tensile strength	466±10MPa	”
+“	AlCuMgSi	yield strength	466MPa	”
+“	AlCuMgSi	tensile strength	466MPa	”
+“	Cu-10%Al-4%Fe-2%Mn	hardness	467HV	”
+“	Cu-0.23Be-0.84Co	electrical conductivity	47.0%IACS	”
+“	Cu-0.23Be-0.84Co	electrical conductivity	47.0%IACS	”
+“	Cu-Ni-Si	electrical conductivity	47.1%IACS	”
+“	Cu-RGO	hardness	47.27HV	”
+“	Ni/Sn-Sb-Cu	hardness	47.5Hv	”
+“	Cu-Fe	electrical conductivity	47.6%IACS	”
+“	Al-6Cu-6Mg-5Sn-3Ga	yield strength	470MPa	”
+“	AlCu4.4Mg1.5	tensile strength	470MPa	”
+“	AlCu4.4Mg1.5	yield strength	470MPa	”
+“	Al-Cu	yield strength	472.5MPa	”
+“	Al-Cu	tensile strength	472.5MPa	”
+“	Al-Cu	yield strength	472MPa	”
+“	Al-Cu	tensile strength	472MPa	”
+“	Al-Cu	tensile strength	475MPa	”
+“	TiCu	hardness	479HV	”
+“	4Al2O3/Cu	electrical conductivity	48.3%IACS	”
+“	WCu	electrical conductivity	48.7%IACS	”
+“	WCu	electrical conductivity	48.7%IACS	”
+“	Ni-13.5Cu37.5Co	hardness	481Hv	”
+“	Ti2Cu	hardness	482HV	”
+“	Cu-0.8wt%C	yield strength	483MPa	”
+“	Cu-0.45Co-0.23Ti	tensile strength	485.57MPa	”
+“	Cu-0.45Co-0.23Ti	yield strength	485.57MPa	”
+“	Cu-B/diamond	thermal conductivity	485-600W/mK	”
+“	/Al-Cu	tensile strength	485MPa	”
+“	Al-Cu	tensile strength	485MPa	”
+“	Al-1.0Mg-0.5Si-0.8Cu	tensile strength	487MPa	”
+“	Al-1.0Mg-0.5Si-0.8Cu	yield strength	487MPa	”
+“	Al-1.0Mg-0.5Si-0.8Cu	tensile strength	487MPa	”
+“	W-Cu	electrical conductivity	49.7%IACS	”
+“	Cu-3Si-0.837	electrical conductivity	49.838%IACS	”
+“	Zr-Cu	hardness	490HV	”
+“	Cu-Fe	tensile strength	490MPa	”
+“	Cu-0.5	tensile strength	490MPa	”
+“	Cu-Mg	tensile strength	490MPa	”
+“	Cu-Cr-Nb	yield strength	492MPa	”
+“	Cu-Cr-Nb	tensile strength	492MPa	”
+“	Cu/Ti-coated	thermal conductivity	493W/mK	”
+“	Cu10Zr7-type	hardness	496Hv	”
+“	20Ti2AlC/Cu	yield strength	498MPa	”
+“	20Ti2AlC/Cu	tensile strength	498MPa	”
+“	CuAl	electrical conductivity	5.2%IACS	”
+“	Cu50Ni37.5Al12.5	electrical conductivity	5.47%IACS	”
+“	Cu50Ni37.5Al12.5	electrical conductivity	5.47%IACS	”
+“	steel/Ag-20Cu-15Pd/yieldstrengthZ	yield strength	5.8MPa	”
+“	S-Cu	electrical conductivity	50.5%IACS	”
+“	Al2Cu	hardness	500-700HV	”
+“	Cu-Ni-Si	yield strength	500-800MPa	”
+“	Ti(Cu,Al)3	hardness	500HV	”
+“	Cu-containing	yield strength	500MPa	”
+“	Cu-Cr	tensile strength	500MPa	”
+“	Cu-bearing	yield strength	500MPa	”
+“	Cu-Cr	tensile strength	500MPa	”
+“	Al-Cu-Mg	yield strength	500MPa	”
+“	Cu-Mg-Fe-Sn-P-Y	tensile strength	500MPa	”
+“	Diamond/Cu	thermal conductivity	500W/mK	”
+“	0Cu	tensile strength	502MPa	”
+“	0Cu	tensile strength	502MPa	”
+“	CuNiBe	electrical conductivity	50-55%IACS	”
+“	Cu-Fe	electrical conductivity	50-70%IACS	”
+“	Cu-Cr	hardness	508HV	”
+“	Cu-4wt%	tensile strength	510MPa	”
+“	Cu-V	tensile strength	511MPa	”
+“	Cu/ZrO2	yield strength	511MPa	”
+“	CNtensilestrength/Cu-Ti	tensile strength	512MPa	”
+“	Cu-Fe-P	tensile strength	517MPa	”
+“	Cu-7.35wt%Gr	electrical conductivity	52.31%IACS	”
+“	Al-Cu	tensile strength	520MPa	”
+“	Cu-ABA	yield strength	520MPa	”
+“	Cu-ABA	tensile strength	520MPa	”
+“	Cu-ABA	yield strength	520MPa	”
+“	Cu-ABA	tensile strength	520MPa	”
+“	Al-Cu	tensile strength	520MPa	”
+“	NiTiCu	hardness	522Hv	”
+“	Ti-Cu	hardness	523.5HV	”
+“	CaB6/Al-Cu-Mn	tensile strength	523MPa	”
+“	(FeNiCoCu)86Ti7Al7	hardness	525Hv	”
+“	Al-Cu-Li	yield strength	528MPa	”
+“	Cu-1.5%Ti	tensile strength	530MPa	”
+“	Cu-1.5%Ti	yield strength	530MPa	”
+“	Cu-Cr-Zr	tensile strength	530MPa	”
+“	Cu-Cr-Zr	tensile strength	530MPa	”
+“	2SiCw/Cu-Al2O3	tensile strength	531.6MPa	”
+“	Al-Cu	yield strength	534.3MPa	”
+“	Al-Cu	tensile strength	534.3MPa	”
+“	Cu-B/diamond	thermal conductivity	540-700W/mK	”
+“	/Al-Cu	tensile strength	540MPa	”
+“	Cu-Cr-Mg	tensile strength	540MPa	”
+“	Cu-Cr-Mg	tensile strength	540MPa	”
+“	Cu-0.89Cr-0.44Ag	tensile strength	541.5MPa	”
+“	Cu-rich	yield strength	541MPa	”
+“	Cu-rich	yield strength	541MPa	”
+“	Cu(Cr)	tensile strength	541MPa	”
+“	GNS/Cu(0.85)	yield strength	542MPa	”
+“	316L-3.5Cu	yield strength	543MPa	”
+“	316L-3.5Cu	tensile strength	543MPa	”
+“	SiCp/Al-Cu-Mg-Si-Mn	tensile strength	545MPa	”
+“	Cu-15Sn	tensile strength	545MPa	”
+“	Ti2Cu	hardness	548HV	”
+“	Gr-Cu/SS	yield strength	548MPa	”
+“	Cu-Cr-Nb	tensile strength	549MPa	”
+“	Cu-Cr-Nb	yield strength	549MPa	”
+“	Cu-1wt%	tensile strength	550.4MPa	”
+“	Cu-1wt%	tensile strength	550.4MPa	”
+“	Pt49.95Cu16.65Si6.4Ge3B24	hardness	550-580HV	”
+“	Al-Zn-Mg-Cu	tensile strength	550-580MPa	”
+“	nt-Cu	yield strength	550MPa	”
+“	TiCp/Al-Cu	tensile strength	550MPa	”
+“	Al-Cu	tensile strength	550MPa	”
+“	W80-Cu20	yield strength	553.60MPa	”
+“	W80-Cu20	tensile strength	553.60MPa	”
+“	W80-Cu20	yield strength	553.60MPa	”
+“	W80-Cu20	tensile strength	553.60MPa	”
+“	Cu-0.5%Cr	tensile strength	554MPa	”
+“	Cu-Nb-V	tensile strength	554MPa	”
+“	Cu-Ni-Si-Cr	yield strength	559MPa	”
+“	Cu-14Fe-0.1Ag	electrical conductivity	56.6%IACS	”
+“	Cu-14Fe-0.1Ag	electrical conductivity	56.6%IACS	”
+“	W/Cu	tensile strength	56.75MPa	”
+“	W/Cu	tensile strength	56.75MPa	”
+“	Cu-35Zn	hardness	56.7HV	”
+“	Cu-35Zn	hardness	56.7HV	”
+“	IF(IF-Cu)	yield strength	560MPa	”
+“	IF(IF-Cu)	tensile strength	560MPa	”
+“	Al-Cu	tensile strength	560MPa	”
+“	Cu-1.4	tensile strength	560MPa	”
+“	Cu-1.0	tensile strength	560MPa	”
+“	Cu-0.4	tensile strength	568MPa	”
+“	(TiCx-TiB2)/Al-Cu-Mg-Si	tensile strength	569MPa	”
+“	Ti-Cu	hardness	570HV	”
+“	Zr50Cu40Al10	hardness	570HV	”
+“	Cu-0.5Cr-0.15Zr-0.1Ag	Tensile strength	570MPa	”
+“	Ti-5Cu	tensile strength	570MPa	”
+“	Ti-5Cu	yield strength	570MPa	”
+“	Ti2Cu	hardness	571HV	”
+“	Ni-P-Cu	hardness	573HV	”
+“	Al-Cu	tensile strength	574.0MPa	”
+“	Al-Cu	tensile strength	574.0MPa	”
+“	CuCrZr	tensile strength	580MPa	”
+“	Curve	tensile strength	581.42MPa	”
+“	Al-Zn-Mg-Cu	tensile strength	581MPa	”
+“	Al-Zn-Mg-Cu	yield strength	581MPa	”
+“	Al-6Cu-6Mg-5Sn-3Ga-1In	yield strength	582MPa	”
+“	NiTiCu	hardness	584Hv	”
+“	Cu-B/diamond	thermal conductivity	584W/mK	”
+“	Cu-Mg-Ce	tensile strength	587.5MPa	”
+“	Ti47Cu38Zr7.5Fe2.5Sn2Si1Ag2	hardness	588±6Hv	”
+“	Zn-25Sn-xCu	hardness	59.3HV	”
+“	Al-Mg-Si-Cu	hardness	59.4HV	”
+“	Cu-Ni-Si	yield strength	590MPa	”
+“	Cu-Cr-Zr	tensile strength	591.1MPa	”
+“	Al65Cu20Fe10Si5	hardness	596HV	”
+“	Cu-3	yield strength	596MPa	”
+“	Cu-3	tensile strength	596MPa	”
+“	Ti(Cu,Al)2	hardness	597HV	”
+“	Cu2ZnTi	tensile strength	597MPa	”
+“	Cu2ZnTi	yield strength	597MPa	”
+“	Steel/Cu	yield strength	598MPa	”
+“	Steel/Cu	yield strength	598MPa	”
+“	Cu-Mg-Fe-Sn-P-Y	tensile strength	599MPa	”
+“	Cu-Mg-Fe-Sn-P-Y	tensile strength	599MPa	”
+“	Cu-Sn/Fe-based	hardness	6.3HV	”
+“	Cu-0.5wt.%Ti/diamond	coefficient of thermal expansion	6.50e-6/K	”
+“	np-Cu	yield strength	6.5MPa	”
+“	Cu-rich	hardness	6.7HV	”
+“	Zn-0.35Mn-0.41Cu	tensile strength	6.7MPa	”
+“	Zn-0.35Mn-0.41Cu	yield strength	6.7MPa	”
+“	W-10%Cu	coefficient of thermal expansion	6.8e-6/K	”
+“	MgCuphase	hardness	6.83HV	”
+“	LDPE/Cu	tensile strength	6.91MPa	”
+“	Zn-0.5Cu	tensile strength	60.2MPa	”
+“	Zn-0.5Cu	yield strength	60.2MPa	”
+“	Cu-14Fe-0.1Ag	electrical conductivity	60.3%IACS	”
+“	Cu-14Fe-0.1Ag	electrical conductivity	60.3%IACS	”
+“	NiTiCu	hardness	600-700HV	”
+“	Al2Cu	hardness	600HV	”
+“	Ti-Cu	hardness	600HV	”
+“	Ni-P-Cu	hardness	600HV	”
+“	CuZr0.21	tensile strength	600MPa	”
+“	Cu-based	tensile strength	600MPa	”
+“	Al-Zn-Mg-Cu	yield strength	600MPa	”
+“	Cu8Al0.2Ti	tensile strength	600MPa	”
+“	CuNiBe	yield strength	600MPa	”
+“	Ti-Cu	yield strength	600MPa	”
+“	Cu-Cr-Zr	tensile strength	600MPa	”
+“	IHT-Cu-steels	tensile strength	600MPa	”
+“	Cu-Cr-Zr	tensile strength	600MPa	”
+“	Al-Cu-Li	tensile strength	600MPa	”
+“	Al-Cu-Li	yield strength	600MPa	”
+“	Cu-40Zn-Cr-Fe-Sn-Bi	tensile strength	601MPa	”
+“	Cu-40Zn-Cr-Fe-Sn-Bi	yield strength	601MPa	”
+“	Cu-40Zn-Cr-Fe-Sn-Bi	tensile strength	601MPa	”
+“	Cu-0.3Zr	tensile strength	602.04MPa	”
+“	CuCrZr	hardness	60-75HV	”
+“	Cu-Mg	electrical conductivity	60-80%IACS	”
+“	RGO/Cu	tensile strength	608MPa	”
+“	Ti47Cu40Zr7.5Fe2.5Sn2Si1	hardness	609HV	”
+“	Cu-Cr-Zr	tensile strength	609MPa	”
+“	Cu-3Si-W	electrical conductivity	61.25%IACS	”
+“	W/Cu	tensile strength	61.84MPa	”
+“	Al-Cu	coefficient of thermal expansion	6-11e-6/K	”
+“	CuAlMnZnTe	tensile strength	611MPa	”
+“	GN/Cu	hardness	612.3HV	”
+“	Cu-Cr-Zr	tensile strength	612MPa	”
+“	Cu-9.6%	yield strength	613MPa	”
+“	Cu-3Ti-3Ni-0.5Si	tensile strength	615MPa	”
+“	Ti/Cu	hardness	619HV	”
+“	Ti/Cu	hardness	619HV	”
+“	E-Cu+Al2O3	electrical conductivity	62.5%IACS	”
+“	E-Cu+Al2O3	electrical conductivity	62.5%IACS	”
+“	Cu-0.5%Cr	tensile strength	620MPa	”
+“	Cu-0.5%Cr	tensile strength	620MPa	”
+“	CuZr0.21	tensile strength	625MPa	”
+“	Cu-Ni-Si	tensile strength	625MPa	”
+“	Cu-3.8%	yield strength	626MPa	”
+“	Cu-15.4%	hardness	628HV	”
+“	flake/Cu	thermal conductivity	628W/mK	”
+“	Cu-Ni-Zn/Cu-Cr	electrical conductivity	63.5%IACS	”
+“	Cu-Ni-Zn/Cu-Cr	electrical conductivity	63.5%IACS	”
+“	CuNiBe	yield strength	630-725MPa	”
+“	Ti-5Cu	yield strength	630MPa	”
+“	Ti-5Cu	tensile strength	630MPa	”
+“	Cu-Ti/diamond	thermal conductivity	630W/mK	”
+“	Al-Cu-Li	yield strength	632MPa	”
+“	Al-Cu-Li	tensile strength	632MPa	”
+“	Gr/Cu	thermal conductivity	632W/mK	”
+“	Cu-6Ni-1.5Si	yield strength	634MPa	”
+“	Cu-6Ni-1.5Si	tensile strength	634MPa	”
+“	Al-Zn-Mg-Cu	yield strength	638MPa	”
+“	Al-Zn-Mg-Cu	tensile strength	638MPa	”
+“	Cu-rich	yield strength	638MPa	”
+“	Cu-rich	yield strength	638MPa	”
+“	Ti-Cu-Fe	hardness	640HV	”
+“	Cu-Cr	tensile strength	640MPa	”
+“	Al-Zn-Mg-Cu-Zr-Sc	yield strength	644MPa	”
+“	Al-Zn-Mg-Cu-Zr-Sc	tensile strength	644MPa	”
+“	Cu-23.7Ag	yield strength	645±10MPa	”
+“	Cu-7.5Al-9.7Mn-3.4Zn-0.3Te	tensile strength	645MPa	”
+“	graphene/Cu	electrical conductivity	65.2%IACS	”
+“	W-10wt%Cu	tensile strength	650.4MPa	”
+“	Al-Zn-Mg-Cu	tensile strength	650MPa	”
+“	CuTi	hardness	652HV	”
+“	WC-Cu	hardness	652HV	”
+“	Cu-Cr-Zr	Tensile strength	657.7MPa	”
+“	diamond-Cu	thermal conductivity	657W/mK	”
+“	diamond-Cu	thermal conductivity	657W/mK	”
+“	Cu/Dia	thermal conductivity	657W/mK	”
+“	diamond/Cu	thermal conductivity	657W/mK	”
+“	CuAg	electrical conductivity	66.7%IACS	”
+“	Al2Cu	yield strength	660MPa	”
+“	Cu/diamond	thermal conductivity	660W/mK	”
+“	CuTiC	yield strength	661MPa	”
+“	CuDC-3#	thermal conductivity	661W/mK	”
+“	CuDC-3#	thermal conductivity	661W/mK	”
+“	Cu-1Cr-1Co-0.6Si	tensile strength	663.7MPa	”
+“	Cu-1Cr-1Co-0.6Si	yield strength	663.7MPa	”
+“	Cu-1Cr-1Co-0.6Si	tensile strength	663.7MPa	”
+“	Cu-1Cr-1Co-0.6Si	yield strength	663.7MPa	”
+“	Cu-Ni-Si-Zr	tensile strength	665MPa	”
+“	Cu/diamond	thermal conductivity	665W/mK	”
+“	β-Ti+Ti2Cu+TiFe	hardness	666HV	”
+“	β-Ti+Ti2Cu+TiFe	hardness	666HV	”
+“	Cu-ODS	yield strength	668MPa	”
+“	Cu-0.4wt.%Cr-0.12wt.%Zr-0.02wt.%Si-0.05wt.%Mg	tensile strength	670MPa	”
+“	Gr/Cu	thermal conductivity	676W/mK	”
+“	Gr/Cu	thermal conductivity	676W/mK	”
+“	Cu4Ti1C	electrical conductivity	68.37%IACS	”
+“	Cu-Cr-Zr	electrical conductivity	68.475%IACS	”
+“	Cu-9.6%	yield strength	680MPa	”
+“	Cu-9.6%	yield strength	680MPa	”
+“	CuNiBe	electrical conductivity	68-74%IACS	”
+“	diamond/Cu	thermal conductivity	687W/mK	”
+“	diamond/Cu	thermal conductivity	687W/mK	”
+“	TiZrCuNi	hardness	688HV	”
+“	Al-12Zn-2.4Mg-1.1Cu-0.5Ni-0.2Zr	yield strength	689MPa	”
+“	Cu-B/diamond	thermal conductivity	689W/mK	”
+“	Cu-Cr-Zr	tensile strength	690.13MPa	”
+“	Cu-1Cr-0.1Zr	tensile strength	690.13MPa	”
+“	Al-Zn-Mg-Cu	tensile strength	690MPa	”
+“	Al-Zn-Mg-Cu	yield strength	690MPa	”
+“	Cu-13at%	yield strength	690MPa	”
+“	Cu-3.3Ni-1Si-0.85Cr-0.09Mgwt%alloy	tensile strength	690MPa	”
+“	Al2O3/Cu	hardness	693HV	”
+“	Cu2SnSe3	thermal conductivity	7.11W/mK	”
+“	Cu-10Sn	yield strength	7.1MPa	”
+“	Cu/diamond	coefficient of thermal expansion	7.26e-6/K	”
+“	CuFe2O4	coefficient of thermal expansion	7.3e-6/K	”
+“	W-10%Cu	coefficient of thermal expansion	7.3e-6/K	”
+“	W-20wt.%Cu	coefficient of thermal expansion	7.4e-6/K	”
+“	Cu-0.1Ag	electrical conductivity	7.6%IACS	”
+“	Cu-11wt.%	electrical conductivity	70.5%IACS	”
+“	Ti60Cu30Ni6Co4	yield strength	700MPa	”
+“	Al-Zn-Mg-Cu	yield strength	700MPa	”
+“	Cu-2.8Ni-1.4Si	tensile strength	700MPa	”
+“	Ti-Cu	tensile strength	700MPa	”
+“	Cu-bearing	yield strength	700MPa	”
+“	ε-Cu	yield strength	700MPa	”
+“	Cu-Cr-Zr	tensile strength	700MPa	”
+“	Fe-53Cu	tensile strength	700MPa	”
+“	Diamond/Cu	thermal conductivity	700W/mK	”
+“	Diamond/Cu	thermal conductivity	700W/mK	”
+“	Cu-Mg-Fe-Sn-P-Y	electrical conductivity	71.1%IACS	”
+“	Cu-Fe-P	electrical conductivity	71.1%IACS	”
+“	Cu-B/diamond	thermal conductivity	711W/mK	”
+“	Cu-9Ni-6Sn	tensile strength	719.5MPa	”
+“	Al65Cu20Fe15	hardness	719HV	”
+“	Cu-8at%	electrical conductivity	72.5%IACS	”
+“	Zn-25Sn-xCu	tensile strength	72.5MPa	”
+“	80W-20Cu	yield strength	720MPa	”
+“	Cu-rich	yield strength	720MPa	”
+“	Cu-rich	yield strength	720MPa	”
+“	diamond/Cu	thermal conductivity	726W/mK	”
+“	Cu-Mg-Ce	electrical conductivity	73.5%IACS	”
+“	Cu-B/diamond	thermal conductivity	731W/mK	”
+“	Cu-B/diamond	thermal conductivity	731W/mK	”
+“	Cu-B/diamond	thermal conductivity	731W/mK	”
+“	CuTiMo	tensile strength	732MPa	”
+“	Al-Zn-Mg-Cu-Zr-Sc	tensile strength	734MPa	”
+“	Al-Zn-Mg-Cu-Zr-Sc	yield strength	734MPa	”
+“	Dia/Cu	thermal conductivity	735W/mK	”
+“	Ni-P-Cu	hardness	736HV	”
+“	Al-Zn-Mg-Cu-Zr-Cr-Yb	yield strength	737MPa	”
+“	Cu-7Cr-0.1Ag	electrical conductivity	74.9%IACS	”
+“	Cu-7Cr-0.1Ag	electrical conductivity	74.9%IACS	”
+“	1.0Cu	tensile strength	741MPa	”
+“	1.0Cu	yield strength	741MPa	”
+“	CuCrZr	tensile strength	742MPa	”
+“	Cu-1Cr-1Co-0.6Si	yield strength	745.9MPa	”
+“	Cu-1Cr-1Co-0.6Si	tensile strength	745.9MPa	”
+“	Cu-3Ni-0.7Si-xTi	tensile strength	745-837MPa	”
+“	Cu-3Ni-0.63Si-0.12Tiwt%alloy	tensile strength	745MPa	”
+“	graphene/Cu	tensile strength	748MPa	”
+“	2.5G/Cu-20C-pH13.6(H)	tensile strength	748MPa	”
+“	RGO/Cu	tensile strength	748MPa	”
+“	RGO/Cu	tensile strength	748MPa	”
+“	Cup/Fe	hardness	749.2HV	”
+“	Cu-0.4	electrical conductivity	75.3%IACS	”
+“	Cu-5wt%Al2O3.	hardness	75.46HV	”
+“	Al4Cu9	hardness	750HV	”
+“	Cu-10%Al	tensile strength	753MPa	”
+“	Cu-10%Al-5%Nb	tensile strength	753MPa	”
+“	Diamond/Cu	thermal conductivity	753W/mK	”
+“	ε-Cu	hardness	758HV	”
+“	Cu-Cr-Zr-Mg-Si	electrical conductivity	76.3%IACS	”
+“	NiTiCu	hardness	762Hv	”
+“	WC-8Co/Cu-19Ni-5Al	hardness	764HV	”
+“	Cu-0.82Cr	electrical conductivity	77.5%IACS	”
+“	Al-6.3%Cu	hardness	77.5HV	”
+“	Al-6.3%Cu	hardness	77.5HV	”
+“	Cu-Cr-Zr	electrical conductivity	77.63%IACS	”
+“	Cu-0.39Cr-0.24Zr-0.072Mg-0.021Si	electrical conductivity	77.8%IACS	”
+“	AlCoCrCuFe	hardness	770±10HV	”
+“	AlCoCrCuFe	hardness	770±10HV	”
+“	Cu-2%	yield strength	771MPa	”
+“	Cu-4.5%	yield strength	771MPa	”
+“	WC-Cu	hardness	774HV	”
+“	nc-Cu	yield strength	775MPa	”
+“	Cu-1Cr-0.65Zr	electrical conductivity	78.3%IACS	”
+“	Cu-TiC	electrical conductivity	78.6%IACS	”
+“	Cu-Al-Ni-Be	tensile strength	780MPa	”
+“	Cu-Cr-Zr	electrical conductivity	78-81%IACS	”
+“	Cu-Cr-Zr	electrical conductivity	79.2%IACS	”
+“	Cu-Cr-Mg	electrical conductivity	79.2%IACS	”
+“	Cu-Cr-Mg	electrical conductivity	79.2%IACS	”
+“	Cu-15Ni-8Sn-0.4V	electrical conductivity	8.03%IACS	”
+“	Cu-6Ti	electrical conductivity	8.1%IACS	”
+“	steel/Ag-26.7Cu-4.5Ti	yield strength	8.2MPa	”
+“	steel/Ag-26.7Cu-4.5Ti	yield strength	8.2MPa	”
+“	steel/Ag-26.7Cu-4.5Ti	yield strength	8.2MPa	”
+“	steel/Ag-26.7Cu-4.5Ti/yieldstrengthZ	yield strength	8.2MPa	”
+“	Bi-2.6Ag-0.1Cu-xSb	hardness	8.9Hv	”
+“	Steel/Cu	yield strength	80.2MPa	”
+“	CuCrZrHf-II	electrical conductivity	80.35%IACS	”
+“	Cu-0.4Cr-0.2Zr-0.2Hf	electrical conductivity	80.35%IACS	”
+“	Cu-Fe-P	electrical conductivity	80.41%IACS	”
+“	GNSs/AlCu	yield strength	80.43MPa	”
+“	Fe-Cu-Nb-Si-B	hardness	800HV	”
+“	Fe-Cu-Nb-Si-B	hardness	800HV	”
+“	niobium/MZCu	hardness	800HV	”
+“	Cu-Al-Zn	yield strength	800MPa	”
+“	Al-Zn-Mg-Cu	tensile strength	800MPa	”
+“	Cu-Ni-Si-Cr	tensile strength	800MPa	”
+“	Cu-2.8Ni-0.6Si	tensile strength	800MPa	”
+“	Cu-B/diamond	thermal conductivity	800W/mK	”
+“	Cu-C	hardness	80-100HV	”
+“	Al-12Zn-3.28Mg-1.15Cu-0.29Mn-0.20Zr	yield strength	807MPa	”
+“	Al-11.3Si-2Cu	hardness	80-90HV	”
+“	Cu-0.3Zr	electrical conductivity	81.4%IACS	”
+“	Cu-2vol%	tensile strength	810MPa	”
+“	Cu-4.5%	yield strength	810MPa	”
+“	Ti-Ni-Cu-Zr	tensile strength	812MPa	”
+“	Cu-4.5%	yield strength	818MPa	”
+“	Ti-Cu	tensile strength	82.1MPa	”
+“	Cu-Cr-Zr-Ni-Si	electrical conductivity	82.2%IACS	”
+“	Cu-Cr-Zr-Ni-Si	electrical conductivity	82.2%IACS	”
+“	Cu-1wt%	electrical conductivity	82.2%IACS	”
+“	Cu-1wt%	electrical conductivity	82.2%IACS	”
+“	Sn-40Bi-0.1Cu	tensile strength	82.45MPa	”
+“	Cu-6	electrical conductivity	82.5%IACS	”
+“	Cu-6	electrical conductivity	82.5%IACS	”
+“	Cu-6Ni-1.5Si	tensile strength	820MPa	”
+“	Cu-6Ni-1.5Si	yield strength	820MPa	”
+“	Cu-Ti	hardness	830HV	”
+“	Cu-20%Ni	tensile strength	832MPa	”
+“	Cu-Ni-Si	tensile strength	837MPa	”
+“	Cu-4.3Al-22.8Zn	tensile strength	839MPa	”
+“	Cu-Cr-Nb	electrical conductivity	84.2%IACS	”
+“	Cu-Cr-Zr	electrical conductivity	84.7%IACS	”
+“	Cu-Cr-Zr	electrical conductivity	84.7%IACS	”
+“	Cu-14Fe	tensile strength	842MPa	”
+“	Al65Cu20Fe15	hardness	844HV	”
+“	Cu-Al2O3	electrical conductivity	85.90%IACS	”
+“	Ti-Cu	tensile strength	850MPa	”
+“	Ti-Cu	yield strength	850MPa	”
+“	Cu-20SiC	tensile strength	850MPa	”
+“	Diamond/Cu	thermal conductivity	853W/mK	”
+“	Zn-xCu	tensile strength	86±4MPa	”
+“	Cu-25wt%Ag	tensile strength	860MPa	”
+“	nc-Cu	yield strength	863MPa	”
+“	5wt.%Cu	tensile strength	864MPa	”
+“	5wt.%Cu	tensile strength	864MPa	”
+“	Cu-B/diamond	thermal conductivity	868W/mK	”
+“	Cu-0.3	thermal conductivity	868W/mK	”
+“	Cu-B/diamond	thermal conductivity	868W/mK	”
+“	Cu-B/diamond	thermal conductivity	868W/mK	”
+“	Cu-0.3wt%B/diamond	thermal conductivity	868W/mK	”
+“	Cu-1.5CNTs-0.5Al2O3	electrical conductivity	87.2%IACS	”
+“	Al65Cu20Fe15	hardness	870HV	”
+“	Al65Cu20Fe15	hardness	870HV	”
+“	W-4.2Ni-1.8Fe-4Cu	tensile strength	870MPa	”
+“	Cu-Ag	tensile strength	870MPa	”
+“	Fe-x(Ni+P)-1Cu 	yield strength	878MPa	”
+“	2SiCw/Cu-Al2O3	tensile strength	88.4MPa	”
+“	Cu-12.1Al-4.1Zn	tensile strength	882MPa	”
+“	GNP/Cu	electrical conductivity	89.2%IACS	”
+“	Sn-40Bi-2Zn-0.1Cu	tensile strength	89.31MPa	”
+“	amorphous-Ni-Cu	hardness	890±50HV	”
+“	CuAl3	tensile strength	890MPa	”
+“	Cu-3Ti-1Cr	tensile strength	890MPa	”
+“	Cu-rich	hardness	891.6HV	”
+“	CuO	coefficient of thermal expansion	9.3e-6/K	”
+“	Cu-ABA	coefficient of thermal expansion	9.35e-6/K	”
+“	Al-Si-Cu	yield strength	9.4MPa	”
+“	Al-Si-Cu	tensile strength	9.4MPa	”
+“	Cu-0.2	electrical conductivity	90.6%IACS	”
+“	Al-Cu	hardness	90.7HV	”
+“	6061/Cu	tensile strength	90.8MPa	”
+“	CNTs/Cu	electrical conductivity	90.9%IACS	”
+“	Cu-Ag	tensile strength	900MPa	”
+“	nt-Cu	yield strength	900MPa	”
+“	Ti-Cu	yield strength	900MPa	”
+“	Ti-Cu	tensile strength	900MPa	”
+“	Cu/Dia	thermal conductivity	900W/mK	”
+“	Nb-Cu	yield strength	902MPa	”
+“	MWCNTs/Cu	electrical conductivity	91.41%IACS	”
+“	Cu-matrix	electrical conductivity	91.6%IACS	”
+“	Cu-6wt%	tensile strength	912MPa	”
+“	Cu-6wt%	tensile strength	912MPa	”
+“	Cu-Ti-Cd	tensile strength	916MPa	”
+“	Cu-2SiC-2CNT	hardness	92.3HV	”
+“	Cu-24wt.%Ag	tensile strength	924MPa	”
+“	Zn-0.5Cu	yield strength	93.4MPa	”
+“	Zn-0.5Cu	tensile strength	93.4MPa	”
+“	graphene/Cu	electrical conductivity	93.8%IACS	”
+“	Cu-Zr/diamond	thermal conductivity	930W/mK	”
+“	Cu-Zr/diamond	thermal conductivity	930W/mK	”
+“	Ti2Cu	tensile strength	932.6MPa	”
+“	Cu-0.6Cr-0.2Zr	electrical conductivity	94.4%IACS	”
+“	Cu-Be	yield strength	940MPa	”
+“	Cu-Be	tensile strength	940MPa	”
+“	Cu-0.1Ag	electrical conductivity	95.1%IACS	”
+“	Cu/Gr	electrical conductivity	95.2%IACS	”
+“	Ti94Fe3Cu3	tensile strength	950MPa	”
+“	Cu-Ni-Sn	tensile strength	950MPa	”
+“	Cu-Al-Ni	tensile strength	955MPa	”
+“	Cu-Al2O3	electrical conductivity	96.3%IACS	”
+“	Cu-Al2O3	electrical conductivity	96.3%IACS	”
+“	NUCu-140	yield strength	965MPa	”
+“	Cu-0.13Cr-0.074Ag	electrical conductivity	97.3%IACS	”
+“	Cu-containing	hardness	97.5HV	”
+“	Zn-3Cu	hardness	97±2HV	”
+“	Cu-1wt.%SiC	electrical conductivity	98.8%IACS	”
+“	Cu-2.7Ti	yield strength	982MPa	”
+“	Cu-2.7Ti	tensile strength	982MPa	”
+“	FeCu	yield strength	984MPa	”
+“	CuNiSiAl	yield strength	985MPa	”
+“	CuNiSiAl	tensile strength	985MPa	”
+“	Cu-20vol%WS2	hardness	99.6HV	”
+“	Cu-15Ni-8Sn-0.4V	tensile strength	990MPa	”
+“	Sn1.0Ag0.5Cu	coefficient of thermal expansion	25.0e-6/K	”
+“	Cu	tensile strength	201±5MPa	”
+“	(0CNT-5TiB2/Cu	tensile strength	228±3MPa	”
+“	(1CNT-4TiB2)/Cu	tensile strength	375±5MPa	”
+“	Al-15Cu	hardness	183HV	”
+“	Al-33Cu	hardness	256HV	”
+“	Al-40Cu	hardness	279HV	”
+“	Cu	coefficient of thermal expansion	1.75e-6/K	”
+“	Cu	tensile strength	295MPa	”
+“	Cu	yield strength	210MPa	”
+“	A3(Ag+Cu)	hardness	119.1HV	”
+“	Cu	hardness	116.8HV	”
+“	Cu	hardness	98.7Hv	”
+“	Cu	thermal conductivity	397W/mK	”
+“	PS/Cu	thermal conductivity	26.14W/mK	”
+“	Mo/Cu	coefficient of thermal expansion	5.35e-6/K	”
+“	Cu/Ni	hardness	135.6HV	”
+“	Cu	thermal conductivity	400W/mK	”
+“	Cu	thermal conductivity	400W/mK	”
+“	Cu	coefficient of thermal expansion	(16-17)e-6/K	”
+“	Cu-0.3Zr	tensile strength	589.8MPa	”
+“	Cu-0.3Zr-1.5ZrB2	tensile strength	608.5MPa	”
+“	Cu-Al	tensile strength	220MPa	”
+“	Cu-2.3at.%Al	tensile strength	354MPa	”
+“	Cu-1.0Ni-0.25Si-0.6Sn-0.5Zn	tensile strength	520-800MPa	”
+“	Cu-3.0Ni-0.65Si-0.15	tensile strength	520-800MPa	”
+“	Cu-1.0Ni-0.25Si-0.6Sn-0.5Zn	electrical conductivity	30-50%IACS	”
+“	Cu-3.0Ni-0.65Si-0.15	electrical conductivity	30-50%IACS	”
+“	Cu93.75Ni3.54Si2.08(Cr/Fe0.42Zr0.21	electrical conductivity	35-36% IACS	”
+“	Cu-8%Al	tensile strength	500MPa	”
+“	Cu-Cr	electrical conductivity	85.1%IACS	”
+“	Cu-Cr-Mg	electrical conductivity	79.2%IACS	”
+“	Cu-Mg-Ca	yield strength	130MPa	”
+“	Cu-Mg	yield strength	124MPa	”
+“	Cu-Ni-Si-Mg	yield strength	600-900MPa	”
+“	Cu-Ni-Co-Si-Mg	yield strength	600-900MPa	”
+“	Cu-Ni-Si-Mg	electrical conductivity	30-50%IACS	”
+“	Cu-Ni-Co-Si-Mg	electrical conductivity	30-50%IACS	”
+“	Cu-OFE	hardness	40-65HV	”
+“	Cu	coefficient of thermal expansion	17.7e-6/K	”
+“	CuZn40	hardness	120Hv	”
+“	FC-Cu	yield strength	19-29MPa	”
+“	SH-Cu	yield strength	1.2-2.3MPa	”
+“	[(Cu4Ni12)Fe192](Cr32(Ni8.5Mo2Ti2Nb0.5Al1V1))	tensile strength	1456MPa	”
+“	[(Cu4Ni12)Fe192](Cr32(Ni8.5Mo2Ti2Nb0.5Al1V1))	yield strength	1494MPa	”
+“	(Fe77Mo5P9C7.5B1.5)99.9Cu0.1	yield strength	3100MPa	”
+“	FPM-Cu	tensile strength	232MPa	”
+“	nt-Cu	tensile strength	800-1068MPa	”
+“	Cu	yield strength	2000MPa,2088MPa,2108MPa	”
+“	TiCu	hardness	479HV	”
+“	Ti2Cu	hardness	571HV	”
+“	40wt%(TiCx-TiB2)/Al-Cu-Mg-Si	tensile strength	569MPa	”
+“	40wt%(TiCx-TiB2)/Al-Cu-Mg-Si	yield strength	704MPa	”
+“	Zn-25Sn	tensile strength	58.9MPa	”
+“	Zn-25Sn-1.0Cu	tensile strength	72.5MPa	”
+“	Zn-25Sn	hardness	24.3±0.8HV	”
+“	Zn-25Sn-1.0Cu	hardness	59.3±2.6HV 	”
+“	Zr53Cu30Nb5Pd4Al8	yield strength	1700MPa	”
+“	Zr53Cu30Nb4.5Pd4.5Al8	yield strength	1900MPa	”
+“	Cu	coefficient of thermal expansion	16.4e-6/K	”
+“	Ti2AlC/Cu	tensile strength	498MPa	”
+“	SiCp/Cu	tensile strength	390MPa	”
+“	0Cu	tensile strength	410MPa	”
+“	0.25Cu	tensile strength	410MPa	”
+“	Cu-free	tensile strength	341.9MPa	”
+“	Cu-free	yield strength	374.9MPa	”
+“	0.2wt%Cu	tensile strength	318.0MPa	”
+“	0.2wt%Cu	yield strength	348.7MPa	”
+“	0.1wt%GNPs/Cu	yield strength	159MPa	”
+“	0.2wt%GNPs/Cu	yield strength	171MPa	”
+“	0.2wt%GNPs/Cu	tensile strength	233MPa	”
+“	0.3wt%rGO/Cu	tensile strength	163MPa	”
+“	Cu	hardness	151HV	”
+“	0.4-GO-Cu	hardness	117HV	”
+“	Cu+B	yield strength	150MPa	”
+“	Cu+B	tensile strength	300MPa	”
+“	0.5wt%CNtensilestrength/Cu	tensile strength	218MPa	”
+“	0.8%GO/4%Ti3AlC2/Cu	hardness	97.1±2HV	”
+“	0.8%GO/Cu	hardness	68±1.7HV	”
+“	2.2wt%Cu	tensile strength	672.3MPa	”
+“	0.8wt%Cu	tensile strength	781.8MPa	”
+“	2.2wt%Cu	yield strength	643.6MPa	”
+“	0.8wt%Cu	yield strength	748.1MPa	”
+“	W-Cu	electrical conductivity	38.512 MS/m	”
+“	W-Cu	hardness	278HV	”
+“	W-Cu	thermal conductivity	264W/mK	”
+“	Fe-16Cr-2.5Mo	tensile strength	583MPa	”
+“	0.8%GO/4%Ti3AlC2/Cu	hardness	97.1±2HV	”
+“	10%Ti3AlC2/Cu	hardness	103±2.5HV	”
+“	5Ag-Cu/500	tensile strength	1000±100MPa	”
+“	10Ag-Cu/500	tensile strength	1000±101MPa	”
+“	13Cu-ST	tensile strength	1018MPa	”
+“	14.5Cu-ST	tensile strength	1018MPa	”
+“	10Ti2AlC/Cu	yield strength	103MPa	”
+“	15Ti2AlC/Cu	yield strength	176MPa	”
+“	20Ti2AlC/Cu	yield strength	226MPa	”
+“	1Ag-Cu	tensile strength	800±100MPa	”
+“	3.5Cu	tensile strength	236MPa	”
+“	0.5wt%CNtensilestrength/Cu	tensile strength	325MPa	”
+“	1wt%CNtensilestrength/Cu	tensile strength	419MPa	”
+“	2.5G/Cu-20C-pH13.6(H)	tensile strength	183MPa	”
+“	Cu-W	hardness	224.8HV	”
+“	17Cu-ST	tensile strength	1125MPa	”
+“	20Cu-ST	tensile strength	1214MPa	”
+“	15.6TiC/Cu	yield strength	141MPa	”
+“	20Ti2AlC/Cu	yield strength	42MPa	”
+“	100Cu-CNTs	yield strength	207MPa	”
+“	30Cu-CNTs	yield strength	225MPa	”
+“	40vol% TiC -TiB2/Cu	yield strength	1200MPa	”
+“	30W70Cu	hardness	160-260HV	”
+“	50W50Cu	hardness	100-250HV	”
+“	5182-ZnCu	yield strength	184MPa	”
+“	5N1Cu	tensile strength	175-250MPa	”
+“	5N2Cu	tensile strength	175-250MPa	”
+“	95Cu-5Fe	hardness	188HV	”
+“	65Cu-35Fe	hardness	352HV	”
+“	70W-30Cu	yield strength	460MPa	”
+“	60W-40Cu	yield strength	210MPa	”
+“	80W-20Cu	yield strength	1100MPa	”
+“	70W-30Cu	yield strength	670MPa	”
+“	60W-40Cu	yield strength	320MPa	”
+“	80W-20Cu	yield strength	950MPa	”
+“	80W-20Cu	yield strength	480M-860MPa	”
+“	80W-14Cu-6Zn	yield strength	800MPa	”
+“	80W-20Cu	yield strength	600MPa	”
+“	Cu	hardness	242HV	”
+“	95Cu-5Fe	hardness	276HV	”
+“	65Cu-35Fe	hardness	388HV	”
+“	Ag@CNtensile strength(1.4)-Gr/Cu	tensile strength	188MPa	”
+“	Ag-20Cu-15Pd	coefficient of thermal expansion	15.2e-6/K	”
+“	Ag-26.7Cu-4.5Ti	coefficient of thermal expansion	18.5e-6/K	”
+“	Ag80Cu20	yield strength	128MPa	”
+“	Ag70Cu30	yield strength	128MPa	”
+“	Ag-Cu	coefficient of thermal expansion	6-10e-6/K	”
+“	Ag-Cu-Ti	tensile strength	520MPa	”
+“	Cu-ABA	tensile strength	339-455MPa	”
+“	Ag-Cu-Ti/TiN	hardness	150-180HV	”
+“	Ag-Cu-Ti/TiC	hardness	115-130HV	”
+“	EG/G/Cu	thermal conductivity	1.03W/mK	”
+“	Ag-EG/G/Cu	thermal conductivity	1.27W/mK	”
+“	Al/Cu	tensile strength	227MPa	”
+“	Al/Cu	yield strength	340MPa	”
+“	Al-4.0Cu-0.3Mg-1.0Ag-0.1Si	hardness	115HV	”
+“	Al-23%Cu	tensile strength	271.3MPa	”
+“	Al-77%Cu	tensile strength	385.5MPa	”
+“	CuAlO2	coefficient of thermal expansion	4.3e-6/K	”
+“	Al2Cu	coefficient of thermal expansion	1.6e-6/K	”
+“	Cu	hardness	60-65HV	”
+“	Al2Cu	hardness	272-444HV	”
+“	Al81Ni5Cu8Si6	yield strength	600MPa	”
+“	AlCu2	hardness	35HV	”
+“	Al2Cu3	hardness	180HV	”
+“	Al3Cu4	hardness	624HV	”
+“	AlCu	hardness	648HV	”
+“	Al2Cu	hardness	413HV	”
+“	Al-0.63%Cu	tensile strength	78-225MPa	”
+“	Al-3.9%Cu	tensile strength	128-285MPa	”
+“	Al-15Cu	hardness	224HV	”
+“	Al-33Cu	hardness	275HV	”
+“	Al-40Cu	hardness	293HV	”
+“	Al-4.45Cu-1.5Mg-0.54Mn	tensile strength	610MPa	”
+“	Al-4.45Cu-1.5Mg-0.54Mn	yield strength	540MPa	”
+“	Al-4.3Cu-1.4Mg-0.76Mn	tensile strength	755MPa	”
+“	Al-4.3Cu-1.4Mg-0.76Mn	yield strength	711MPa	”
+“	Al-4.5Cu	yield strength	84MPa	”
+“	Al-4.5Cu-1.5TiC	yield strength	113MPa	”
+“	Al2Cu	hardness	380HV	”
+“	Al4Cu9	hardness	525HV	”
+“	1.5wt%Mg2Si/Al-5Cu	tensile strength	315MPa	”
+“	0.5wt.%Cu	tensile strength	232MPa	”
+“	Al65Cu20Fe15	hardness	759HV	”
+“	Al62Cu25.5Fe12.5	hardness	586HV	”
+“	Al84Cu16	hardness	267HV	”
+“	Al77Cu13Si6Mg3Ni1	hardness	292HV	”
+“	Al7Si2Cu0.2Zr	tensile strength	335MPa	”
+“	Al7Si2Cu0.2Zr	yield strength	291MPa	”
+“	Al7Si0.5Cu	yield strength	261MPa	”
+“	Al7Si0.5Cu	tensile strength	282MPa	”
+“	Al-8.4Si-20Cu-10Ge-0.1Re	hardness	154±18Hv	”
+“	Al70Cu10Ge20	hardness	202HV	”
+“	Al80Cu10Ge10	hardness	157HV	”
+“	Al78Cu7Fe15	hardness	495HV	”
+“	Al80Cu5Fe1Si1	hardness	468HV	”
+“	Al-Ag-Cu	hardness	403HV	”
+“	Al-Ni-Cu	hardness	171HV	”
+“	PCNT/Al-Cu	tensile strength	470MPa	”
+“	Al-Cu	tensile strength	237MPa	”
+“	PCNT/Al-Cu	yield strength	384MPa	”
+“	Al-Cu	yield strength	110MPa	”
+“	CNT/Al-Cu	hardness	181.2HV	”
+“	Al-Cu	hardness	79.8HV	”
+“	TiC/Al-Cu	tensile strength	573MPa	”
+“	2.0wt% nano-sized TiN /Al-Cu	yield strength	365MPa	”
+“	2.0wt% nano-sized TiN /Al-Cu	tensile strength	594MPa	”
+“	Al-Cu	yield strength	303MPa	”
+“	Al-Cu	tensile strength	485MPa	”
+“	CNTs/Al-Cu	tensile strength	375MPa	”
+“	Al-Cu	tensile strength	280MPa	”
+“	Al-Cu-Sc	yield strength	150MPa	”
+“	1.0wt% nano-sized SiC /Al-Cu	tensile strength	482MPa	”
+“	1.0wt% nano-sized SiC /Al-Cu	yield strength	351MPa	”
+“	0.7wt%nano-sized TiCp/Al-Cu	yield strength	254MPa	”
+“	0.7wt%nano-sized TiCp/Al-Cu	tensile strength	297MPa	”
+“	Al-Cu	tensile strength	194MPa	”
+“	Al-Cu	yield strength	183MPa	”
+“	M-1.0+N-0.3 TiCp/Al-Cu	tensile strength	541MPa	”
+“	M-1.0+N-0.3 TiCp/Al-Cu	yield strength	363MPa	”
+“	M-1.0+N-0.3 TiCp/Al-Cu	tensile strength	314MPa	”
+“	Mg2Si+SiCnp/Al-Cu	tensile strength	325MPa	”
+“	Mg2Si+SiCnp/Al-Cu	yield strength	210MPa	”
+“	Cu	hardness	130Hv	”
+“	Al-Cu	tensile strength	534.3MPa	”
+“	Al-Cu	yield strength	363.2MPa	”
+“	Al/5 Al-Cu-Li	tensile strength	128MPa	”
+“	Al/10 Al-Cu-Li	tensile strength	152MPa	”
+“	 Al/15 Al-Cu-Li	tensile strength	167MPa	”
+“	1.5 wt.% CNT/Al-Cu-Mg	hardness	159.3HV	”
+“	1.5 wt.% CNT/Al-Cu-Mg	tensile strength	253MPa	”
+“	1.5 wt.% CNT/Al-Cu-Mg	yield strength	476MPa	”
+“	AlCuMg	hardness	139.5HV	”
+“	AlCuMgSi	hardness	155.7HV	”
+“	Al-Cu-Sc	yield strength	426MPa	”
+“	Al-Cu-Sc-Fe	yield strength	88.6 ± 8.1MPa	”
+“	Al-Cu-Sc	yield strength	79.7 ± 7.3MPa	”
+“	Al-Cu	yield strength	35.5 ± 4.9MPa	”
+“	AlN/Cu	thermal conductivity	100W/mK	”
+“	Al-Ag-Cu	hardness	206-403HV	”
+“	Al-Ni-Cu	hardness	119-171HV	”
+“	AlSi10Mg-4Cu	hardness	140±6HV	”
+“	AlSi6Cu	yield strength	268.3MPa	”
+“	AlSi6Cu4(Sr)	yield strength	320.6MPa	”
+“	Al-Cu	hardness	85-95HV	”
+“	Al-Si-Cu	hardness	85-95HV	”
+“	Al-Zn-Mg-Cu	tensile strength	900MPa	”
+“	Al-Zn-Mg-Cu	yield strength	850MPa	”
+“	Cu	thermal conductivity	401W/mK	”
+“	AuCu	yield strength	800MPa	”
+“	BPSE/OMt-Cu	tensile strength	6-13.2MPa	”
+“	3 vol.% CaB6/Al-Cu	tensile strength	531MPa	”
+“	2 vol.% CaB6/Al-Cu-Mn	tensile strength	434-523MPa	”
+“	col-nt-Cu	tensile strength	300MPa	”
+“	col-nt-Cu	yield strength	225MPa	”
+“	cg-nt-Cu	yield strength	820MPa	”
+“	Cu/Cr	yield strength	1280MPa	”
+“	CNT/AlCu	tensile strength	830MPa	”
+“	CNT/AlCu	tensile strength	996MPa	”
+“	5vol.% CNT/Cu	yield strength	360-460MPa	”
+“	10vol.% CNT/Cu	tensile strength	168-296MPa	”
+“	10vol.% CNT/Cu	hardness	68-135Hv	”
+“	Cr-Cu	yield strength	388MPa	”
+“	Cr-Cu	hardness	157Hv	”
+“	CNT/Cu	yield strength	10.2MPa	”
+“	CNT/Cu-Cr	yield strength	14.8MPa	”
+“	CNT-Cu	yield strength	692MPa	”
+“	CNT-RGO/Cu	tensile strength	601MPa	”
+“	RGO/Cu	tensile strength	450MPa	”
+“	Cu	tensile strength	294MPa	”
+“	CNT-RGO/Cu	tensile strength	316MPa	”
+“	Al-Cu	yield strength	114MPa	”
+“	0.5vol% CNTs/Cu	yield strength	142.2MPa	”
+“	CNTs/Cu	yield strength	692MPa	”
+“	CNTs/Cu	electrical conductivity	84.1% IACS	”
+“	Cu	yield strength	174MPa	”
+“	CNTs/Cu	yield strength	185MPa	”
+“	RGO/Cu	yield strength	232MPa	”
+“	CNT-RGO/Cu	yield strength	265MPa	”
+“	nc Cu	yield strength	1067±20MPa	”
+“	(55vol%)-Cu	thermal conductivity	178W/mK	”
+“	Cu	thermal conductivity	378W/mK	”
+“	Cu	tensile strength	100MPa	”
+“	Ag60Cu40	yield strength	430MPa	”
+“	Sn-Ag-Cu	hardness	17.3Hv	”
+“	Cu	yield strength	120-150MPa	”
+“	ECAP	tensile strength	450MPa	”
+“	DPD	tensile strength	630MPa	”
+“	Cu-28wt.%Ag	hardness	360Hv	”
+“	HCu	hardness	153HV	”
+“	Cu	yield strength	700MPa	”
+“	Cu	thermal conductivity	400W/mK	”
+“	Cu	hardness	123HV	”
+“	Cu-10B	hardness	695.6HV	”
+“	Al-10% Si-4% Cu	tensile strength	116MPa	”
+“	Al-6% Cu	tensile strength	110MPa	”
+“	Al-Cu/diamond	coefficient of thermal expansion	(6-11)e-6/K	”
+“	ARBed Cu	hardness	140HV	”
+“	5.1vol% of Cu	thermal conductivity	0.43W/mK	”
+“	4.9vol% of Cu	thermal conductivity	1.48W/mK	”
+“	3% HRDSR Cu	tensile strength	500MPa	”
+“	3% HRDSR Cu	yield strength	417MPa	”
+“	Cu	thermal conductivity	400W/mK,1500W/mK	”
+“	Cu/diamond	thermal conductivity	400W/mK,1500W/mK	”
+“	Cu	yield strength	200MPa	”
+“	Cu	yield strength	260.1MPa	”
+“	Cu	thermal conductivity	400W/mK	”
+“	0 Cu	yield strength	470MPa	”
+“	1.5 Cu	yield strength	504MPa	”
+“	3.0 Cu	yield strength	538MPa	”
+“	Cu	tensile strength	217.2MPa	”
+“	Cu/Al	Tensile strength	78.93MPa	”
+“	Al-50at.% Cu	yield strength	86±10MPa	”
+“	Cu-0.9Y2O3	tensile strength	586MPa	”
+“	5vol% MWNT/Cu	yield strength	360MPa	”
+“	Ti-Cu-N	hardness	2000HV	”
+“	1% HRDSR Cu	yield strength	361MPa	”
+“	Mo/Cu	tensile strength	250MPa	”
+	Al-50at.% Cu	yield strength	86±10MPa	
+				

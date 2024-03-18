@@ -1,0 +1,2381 @@
+11 Cu-3Ag-0.5Zr-167MPa
+12 Cu-mold
+13  Al/15 Al-Cu-Li
+14 (0CNT-5TiB2)/Cu
+15 (1CNT-4TiB2)/Cu
+16 (1CNTs-4TiB2)/Cu
+17 (4CNT-1TiB2)/Cu
+18 (55vol%)-Cu
+19 (CuNPs-CuNWs)@PDA/PI
+20 (Fe77Mo5P9C7.5B1.5)99.9Cu0.1
+21 (FeNiCoCu)86Ti7Al7
+22 (Ti:Cu)-DLC
+23 (Ti33Zr33Hf33)50(Ni33Cu33Fe33)50
+24 (TiCx-TiB2)/Al-Cu-Mg-Si
+25 [(Cu4Ni12)Fe192](Cr32(Ni8.5Mo2Ti2Nb0.5Al1V1))
+26 0.1Cu-CNT/GO
+27 0.1wt%GNPs/Cu
+28 0.1wt.% DM-CuON
+29 0.25Cu
+30 0.25wt.%Cu/CNT
+31 0.2wt%Cu
+32 0.2wt%GNPs/Cu
+33 0.2wt.% DM-CuON
+34 0.3wt%GNPs/Cu
+35 0.3wt%rGO/Cu
+36 0.4-GO-Cu
+37 0.5vol% CNTs/Cu
+38 0.5wt%CNT/Cu
+39 0.5wt%Cu
+40 0.5wt.% DM-CuON
+41 0.5wt.%Cu
+42 0.7wt%nano-sized TiCp/Al-Cu
+43 0.8%GO/4%Ti3AlC2/Cu
+44 0.8%GO/Cu
+45 0.8Al-0.2-0.2Cu-5wt.%
+46 0.8wt%Cu
+47 0.8wt%CuO
+48 1% HRDSR Cu
+49 1.0Cu
+50 1.0wt% nano-sized SiC /Al-Cu
+51 1.0wt.%Cu/CNT
+52 1.5 Cu
+53 1.5 wt.% CNT/Al-Cu-Mg
+54 1.5wt%Mg2Si/Al-5Cu
+55 10%Ti3AlC2/Cu
+56 100Cu-CNTs
+57 10Ag-Cu/500
+58 10Ti2AlC/Cu
+59 10vol.% CNT/Cu
+60 10wt%(CuNPs-CuNWs)@PDA/P
+61 13Cu-ST
+62 14.5Cu-ST
+63 15.6TiC/Cu
+64 15Ti2AlC/Cu
+65 16MnCu
+66 17Cu-ST
+67 18Cr9Ni3CuNbN
+68 1Ag-Cu
+69 1Ag-Cu/400
+70 1wt%CNtensilestrength/Cu
+71 2 vol.% CaB6/Al-Cu-Mn
+72 2%Cu
+73 2.0wt% nano-sized TiN /Al-Cu
+74 2.2wt%Cu
+75 2.5G/Cu-20C-pH13.6(H)
+76 2.5wt%Cu
+77 204Cu
+78 20Cu@W
+79 20Cu-ST
+80 20Ti2AlC/Cu
+81 2SiCw/Cu-Al2O3
+82 3 vol.% CaB6/Al-Cu
+83 3% HRDSR Cu
+84 3%Cu
+85 3.0 Cu
+86 3.5Cu
+87 3.5Cu+0.4Er
+88 30Cu-CNTs
+89 30W70Cu
+90 316L-3.5Cu
+91 35wt%Cu
+92 3wt%Mg2Si/Al-5Cu
+93 4%Cu
+94 4.9vol% of Cu
+95 40vol% TiC -TiB2/Cu
+96 40wt%(TiCx-TiB2)/Al-Cu-Mg-Si
+97 4Al2O3/Cu
+98 4Cu
+99 4TiB2/Cu
+100 5.1vol% of Cu
+101 50W50Cu
+102 5182-ZnCu
+103 5Ag-Cu/500
+104 5N1Cu
+104 5N2Cu
+105 5vol% MWNT/Cu
+106 5vol.% CNT/Cu
+107 5wt.%Cu
+108 6061/Cu
+108 60-Cu40
+109 60W-40Cu
+110 65Cu-35Fe
+111 70W-30Cu
+112 72Ag28Cu-2Ti
+112 72Ag28Cu-2Zr
+113 80W-14Cu-6Zn
+114 80W-20Cu
+115 95Cu-5Fe
+116 99.99Cu
+117 A2(Cu)
+118 A3(Ag+Cu)
+119 A356-1.5Cu-0.6Sc
+120 Ag@CNtensile strength(1.4)-Gr/Cu
+121 Ag@Gr/Cu
+122 Ag-20Cu-15Pd
+123 Ag-20Cu-22Zn-24Cd
+124 Ag-26.7Cu-4.5Ti
+125 Ag60Cu40
+126 Ag70Cu30
+127 Ag80Cu20
+128 agar/CuAAA
+129 Ag-Cu
+130 Ag-Cu-2Ti
+131 Ag-Cu-added
+132 Ag-Cu-Pd
+133 Ag-Cu-Ti
+134 Ag-Cu-Ti/TiC
+135 Ag-Cu-Ti/TiN
+136 Ag-Cu-Ti/TiX
+137 Ag-EG/G/Cu
+138 Al/10 Al-Cu-Li
+139 Al/5 Al-Cu-Li
+140 Al/Cu
+141 Al/Cu/Al
+142 Al/Cu/Ti
+143 Al/CuAl2
+144 Al0.4CoCu0.6Ni
+145 Al0.5CoCrCuFeNi
+146 Al-0.63%Cu
+147 Al-1.0Mg-0.5Si-0.8Cu
+148 Al-10% Si-4% Cu
+149 Al-10Si-1.2Cu-0.7Mn
+150 Al-11.3Si-2Cu
+151 Al-12Zn-2.4Mg-1.1Cu-0.5Ni-0.2Zr
+152 Al-12Zn-3.28Mg-1.15Cu-0.29Mn-0.20Zr
+153 Al-15%Mg2Si-1%Cu
+154 Al-15Cu
+155 Al-2%Cu
+156 Al-23%Cu
+157 Al2Cu
+158 Al2Cu3
+159 Al2O3/Cu
+160 Al2O3-Cu/water
+161 Al-3%Cu
+162 Al-3.9%Cu
+163 Al-33Cu
+164 Al3Cu4
+165 Al-4.0Cu-0.3Mg-1.0Ag-0.1Si
+166 Al-4.0Cu-1.5Mg
+167 Al4.2Cu3.2Zn0.7
+168 Al-4.3Cu-1.4Mg-0.76Mn
+169 Al-4.45Cu-1.5Mg-0.54Mn
+170 Al-4.5%Cu/TiC
+171 Al-4.5Cu
+172 Al-4.5Cu-1.5TiC
+173 Al-40Cu
+174 Al-45Zn-3Cu
+175 Al-4Cu-10ZrN
+176 Al4Cu9
+177 Al-5%Cu-7%Si3N4
+178 Al-5.0Cu-0.6Mn-1.5RE
+179 Al-50at.% Cu
+180 Al-5Cu
+181 Al-6% Cu
+182 Al-6.0Cu-0.6Mn-1.0Fe-1.5Ni
+183 Al-6.3%Cu
+183 Al-6.3Cu
+183 Al-6.4%Cu
+183 Al-6.5%Cu
+183 Al-6.6%Cu
+184 Al-6.8Zn-6.5Si-2Mg-1.3Cu
+185 Al62Cu25.5Fe12.5
+185 Al65Cu20Fe10Si5
+186 Al65Cu20Fe15
+187 Al-6Cu-6Mg-5Sn-3Ga
+188 Al-6Cu-6Mg-5Sn-3Ga-1In
+189 Al70Cu10Ge20
+190 Al-77%Cu
+191 Al77Cu13Si6Mg3Ni1
+192 Al78Cu7Fe15
+193 Al7Si0.5Cu
+194 Al7Si2Cu0.2Zr
+195 Al-8.4Si-20Cu-10Ge
+196 Al-8.4Si-20Cu-10Ge-0.1Re
+197 Al-8.8Si-1.7Cu-0.4
+198 Al80Cu10Ge10
+199 Al80Cu5Fe1Si1
+200 Al81Ni5Cu8Si6
+201 Al84Cu16
+202 Al86Cu14
+203 Al-9.6Si-20Cu
+204 AlA-Cu
+205 Al-Ag-Cu
+206 AlCoCrCuFe
+207 AlCu
+208 Al-Cu
+209 Al-Cu/diamond
+210 AlCu2
+211 Al-Cu-25Ni/SiC
+212 AlCu4
+213 AlCu4.4Mg1.5
+214 AlCu6.3
+214 Al-Cu6.3
+215 AlCuCrFe
+216 Al-Cu-Fe
+217 Al-Cu-Li
+218 AlCuMg
+218 Al-Cu-Mg
+219 Al-Cu-Mg-Ag
+220 AlCuMgSi
+221 Al-Cu-Mg-Si
+222 AlCuMgZr
+223 Al-Cu-Mn
+224 Al-Cu-Ni
+225 Al-Cu-Sc
+226 Al-Cu-Sc-Fe
+227 Al-Cu-Zr
+228 Al-Fe-Cu
+229 Al-Li-Cu
+230 Al-Mg-Si-Cu
+231 AlMgSiCuCrZr
+232 AlMgZn(Cu)
+233 Al-Mn-Be-Cu
+234 AlN/Cu
+235 Al-Ni-Cu
+236 AlSi10Mg-4Cu
+237 AlSi6Cu
+238 AlSi6Cu4(Sr)
+239 Al-Si-Cu
+240 Al-Si-Cu/SiCp
+241 Al-Si-Cu-Mg
+242 Al-Si-Cu-Ni-Mg
+243 Al-Zn-Mg-Cu
+244 Al-Zn-Mg-Cu-Zr-Cr-Yb
+245 Al-Zn-Mg-Cu-Zr-Sc
+246 Al-Zn-Si-Mg-Cu
+247 amorphous-Ni-Cu
+248 ARBed Cu
+249 AT-Cu
+250 Au49Ag5.5Pd2.3Cu26.9Si16.3
+251 Au50Cu25.5Ag7.5Si17
+252 AuCu
+253 AW-Cu
+254 B19-Ti(Cu)
+255 B2-CuZr
+256 Be-Cu
+257 Bi-2.6Ag-0.1Cu-xSb
+258 BPSE/OMt-Cu
+259 bulk/Cu
+260 C/C-Cu
+261 CaB6/Al-Cu-Mn
+262 c-BN/Cu-Ni-Sn-Ti
+263 cg-nt-Cu
+264 CNT/AlCu
+264 CNT/Al-Cu
+265 CNT/Al-Zn-Mg-Cu
+266 CNT/Cu
+267 CNT/Cu-Ⅰ
+268 CNT/Cu-Cr
+269 CNT/Cu-Ti
+270 CNT-Cu
+271 CNtensilestrength/Al-Cu
+272 CNtensilestrength/Cu
+273 CNtensilestrength/Cu-Ti
+274 CNT-GN/Cu
+275 CNT-RGO/Cu
+276 CNTs/Al-Cu
+277 CNTs/Cu
+278 CNTs/Cu-Ti
+279 Co-4Cu
+280 col-nt-Cu
+281 CP-Cu
+282 Cr-Cu
+283 CrMn0.3FeVCu0.06
+284 Cu-(1and5)vol%Al2O3
+285 Cu(Cr)
+286 Cu
+287 Cu/1
+288 Cu/7
+289 Cu/Al
+290 Cu/Al/Cu
+291 Cu/B4C
+292 Cu/CNT
+293 Cu/Cr
+294 Cu/Dia
+295 Cu/diamond
+296 Cu/Fe
+297 Cu/G
+298 Cu/GNPs/Cu
+299 Cu/GNPs@TiC
+300 Cu/Gr
+301 Cu/HDPE
+302 Cu/Mg
+303 Cu/Mo
+304 Cu/Nb
+305 Cu/Ni
+306 Cu/Ni-steel
+307 Cu/Sn
+308 Cu/Sn/Zn
+309 Cu/Sn-9Zn/Cu
+310 Cu/steel
+311 Cu/Ti3SiC2/C/MWCNtensilestrength
+312 Cu/Ti-coated
+313 Cu/W
+314 Cu/X
+315 Cu/Zr
+316 Cu/ZrO2
+317 Cu:Al
+318 Cu:SS
+319 Cu+B
+320 Cu-0.13Cr-0.074Ag
+321 Cu-0.1Ag
+322 Cu-0.2
+323 Cu-0.23Be-0.84Co
+324 Cu-0.3
+325 Cu-0.39Cr-0.24Zr-0.072Mg-0.021Si
+326 Cu-0.3Cr-0.1Ag
+327 Cu-0.3wt%B/diamond
+328 Cu-0.3Zr
+329 Cu-0.3Zr-1.5ZrB2
+330 Cu-0.4
+331 Cu-0.44Fe-0.23Ti
+331 Cu-0.45Co-0.23Ti
+331 Cu-0.45Cr-0.2Zr
+332 Cu-0.45Cr-0.2Zr-xLa
+333 Cu-0.4Cr-0.2Zr-0.2Hf
+334 Cu-0.4wt.%Cr-0.12wt.%Zr-0.02wt.%Si-0.05wt.%Mg
+335 Cu-0.5
+336 Cu-0.5 wt%B/diamond
+337 Cu-0.5%CNtensilestrength@1000
+338 Cu-0.5%Cr
+339 Cu-0.5Al
+340 Cu-0.5Cr
+341 Cu-0.5Cr-0.15Zr-0.1Ag
+342 Cu-0.5vol%
+343 Cu-0.5wt.%Ti/diamond
+344 Cu-0.66Cr
+345 Cu-0.6Cr-0.2Zr
+346 Cu-0.7
+347 Cu-0.7
+348 Cu-0.7wt%Al2O3-0.7wt%Ce
+349 Cu-0.82Cr
+350 Cu-0.85Cr-0.09Zr
+351 Cu-0.89Cr-0.44Ag
+352 Cu-0.8Cr
+353 Cu-0.8Cr-0.17Fe-0.048P
+354 Cu-0.8wt%C
+355 Cu-0.94Cr
+356 Cu-0.98%Cr-0.057%Zr
+357 Cu-0.9Y2O3
+358 Cu-1%
+359 Cu-1.0
+360 Cu-1.05Zr-0.25B
+361 Cu-1.08wt%
+362 Cu-1.0Ni-0.25Si-0.6Sn-0.5Zn
+363 Cu-1.3wt%La2O3
+364 Cu-1.4
+365 Cu-1.4Ni-0.6Si-1.2Co
+366 Cu-1.5%
+367 Cu-1.5%Ti
+368 Cu-1.5CNtensilestrength-0.5Al2O3
+369 Cu-1.5CNTs-0.5Al2O3
+370 Cu-1.5Fe-0.5Co
+371 Cu-1.5Ni-1.0Co-0.6Si
+371 Cu-1.5Ni-1.5Co-0.6Si
+372 Cu-1.87
+373 Cu-1.8Si-8.0Ni-(0.6Sn + 0.15 Mg)
+374 Cu-1.95
+375 Cu-10%
+376 Cu-10%Al
+377 Cu-10%Al2O3
+378 Cu-10%Al-4%Fe-2%Mn
+379 Cu-10%Al5%Nb
+379 Cu-10%Al-5%Nb
+380 Cu-10%Sn
+381 Cu-10%Zn
+382 Cu-10at.%Mn
+383 Cu-10B
+384 Cu-10Cr
+385 Cu-10Fe-3Ag
+386 Cu-10Gr-20Gn.
+387 Cu10Ni
+388 Cu-10Ni-3Al
+389 Cu-10Ni-3Al-0.8Si
+390 Cu-10SiC
+391 Cu-10Sn
+392 Cu-10Sn-2Zn-1.5Fe
+393 Cu-10Ta-700°C
+394 Cu-10wt%Nb
+395 Cu10Zr7-type
+396 Cu-11.85Al-3.2Ni-3Mn
+397 Cu-11Al-5Mn-0.7Ti
+398 Cu-11Al-5Mn-0.7Ti-2Ta
+399 Cu-11wt.%
+400 Cu-12.1Al-4.1Zn
+401 Cu-12.7Au
+402 Cu-12Ni-17
+403 Cu-12Ni-17Zn-1.7Al
+404 Cu-13.5Al-4Ni-0.5Ti
+405 Cu-13at%
+406 Cu-14Fe
+407 Cu-14Fe-0.1Ag
+408 Cu-15.4%
+409 Cu-15Cr
+410 Cu-15Cr-0.24Zr
+411 Cu-15Gr
+412 Cu-15Ni-8Sn
+413 Cu-15Ni-8Sn-0.4V
+414 Cu-15Ni-8Sn-0.8Nb
+415 Cu-15Sn
+416 Cu-17.8wt%
+417 Cu-18.5Zn-15Ni-1.5Fe
+418 Cu-1at.%
+419 Cu-1Cr
+420 Cu1Cr0.1Zr
+421 Cu-1Cr-0.1Zr
+422 Cu-1Cr-0.65Zr
+423 Cu-1Cr-1Co-0.6Si
+424 Cu-1G
+425 Cu-1GNS
+426 Cu-1vol%
+427 Cu-1vol%CNT
+428 Cu-1wt%
+428 Cu-1wt.%
+429 Cu-1wt.%Cr/5wt.%CNT
+430 Cu-1wt.%SiC
+431 Cu2
+432 Cu-2%
+433 Cu2.04SnSe3
+434 Cu-2.0Ni-0.5Si
+435 Cu-2.1Zr-0.5B
+436 Cu-2.3at.%Al
+437 Cu-2.3Ni-0.7Co-0.7Si
+438 Cu-2.5
+439 Cu-2.5Ni-(0.5-1.0)Co-1.0Si
+440 Cu-2.5Ni-(1.7Si + 0.3Fe)
+441 Cu-2.7Ti
+442 Cu-2.8Ni-0.6Si
+443 Cu-2.8Ni-1.4Si
+444 Cu2+δSnSe4
+445 Cu-20%Ni
+446 Cu20Nb
+447 Cu-20SiC
+448 Cu-20vol%WS2
+449 Cu-23.7Ag
+450 Cu-24wt%Ag
+450 Cu-24wt.%Ag
+451 Cu25Gd10
+452 Cu-25wt%Ag
+453 Cu-28wt.%Ag
+454 Cu2Al-HS
+455 Cu2O
+456 Cu-2Si-39.5Zn
+457 Cu-2SiC-2CNT
+458 Cu2SnSe3
+459 Cu2Ti-0.5C
+460 Cu-2vol%
+461 Cu-2wt%
+462 Cu2ZnTi
+463 Cu-3
+464 Cu-3.0Ni-0.65Si-0.15
+465 Cu-3.0Ni-0.7Si
+466 Cu-3.17wt%Ti
+467 Cu-3.2Ti-0.2Fe-0.2V
+468 Cu-3.3Ni-1Si-0.85Cr-0.09Mgwt%alloy
+469 Cu-3.3Ni-1Si-0.8Cr-Mg
+470 Cu-3.8%
+471 Cu-30%Zn
+472 Cu-30Ni-1Al
+473 Cu-30Zn
+474 Cu-30Zn-0.1P-0.5Fe
+475 Cu-35Zn
+476 Cu-37
+477 Cu-3Ag-0.5Zr
+477 Cu-3Ag-0.5Zr-0.4Cr-0.35Nb
+478 Cu-3Ag-0.5Zr-167MPa
+479 Cu-3Ni-0.63Si-0.12Tiwt%alloy
+480 Cu-3Ni-0.7Si-xTi
+481 Cu3P
+482 Cu-3Si
+483 Cu-3Si-0.47wt%Ti
+484 Cu-3Si-0.837
+485 Cu-3Si-W
+486 Cu-3Si-xMg
+487 Cu3Sn
+488 Cu3Sn-rich
+489 Cu3Ti
+490 Cu-3Ti-1Cr
+491 Cu-3Ti-3Ni-0.5Si
+492 Cu-4.0Ni-1.0Si
+493 Cu-4.3Al-22.8Zn
+494 Cu-4.5%
+495 Cu-4.5Al
+496 Cu-4.5Ni-1.2Co-1.0Si-0.15Mg
+497 Cu-40%Zn
+498 Cu-40vol%MoS2
+499 Cu-40wt%Zn
+500 Cu-40wt%Zn/WC
+501 Cu-40Zn
+502 Cu-40Zn-Cr-Fe-Sn
+503 Cu-40Zn-Cr-Fe-Sn-Bi
+504 Cu41Sn11
+505 Cu46.25Zr44.25Al7.5Er2
+506 Cu-4-7Ni-3Al
+507 Cu4Ti
+508 Cu4Ti1C
+509 Cu-4wt%
+510 Cu-5%
+511 Cu5%TiC
+512 Cu500
+513 Cu-50Cr
+514 Cu50Ni37.5Al12.5
+514 Cu50Ni37.5Cr12.5
+515 Cu50Zr40Ni5Ti5
+516 Cu50Zr45Al5
+517 Cu50Zr50
+518 Cu57Ag40La3
+519 Cu5Ni0
+520 Cu-5vol.%Al2O3
+521 Cu-5wt%
+522 Cu-5wt%Al2O3
+523 Cu-5wt%TiO2
+524 Cu-5wt.%
+525 Cu5Zr
+526 Cu-6
+527 Cu-6%Ag
+528 Cu-6.0Ni-1.0Si-(0.5Al)
+528 Cu-6.0Ni-1.0Si-0.5Al)
+529 Cu66V34
+530 Cu-6at%Ag
+531 Cu-6Ni-1.5Si
+532 Cu-6Ti
+533 Cu-6Ti-Fe
+534 Cu-6wt%
+535 Cu-6wt%Ag
+536 Cu-7.35wt%Gr
+537 Cu-7.5Al-9.7Mn-3.4Zn-0.3Te
+538 Cu-7Ag
+539 Cu-7Ag-0.1Zr
+540 Cu-7Cr-0.1Ag
+541 Cu-7Cr-0.9Ag
+542 Cu-7wt.%Ag
+543 Cu-8%Al
+544 Cu-8.0Ni-1.8Si-0.6Sn-0.15Mg
+545 Cu-8.1at%Mg
+546 Cu-8.5Al-4Ni
+547 Cu80Al13Ni3Hf4
+548 Cu-8Ag
+549 Cu8Al0.2Ti
+550 Cu8Al2Ti
+551 Cu8Al-AA18
+552 Cu-8at%
+553 Cu-8Cr-4Nb
+554 Cu-8Fe-0.5Ag
+555 Cu-9.6%
+556 Cu93.75Ni3.54Si2.08(Cr/Fe0.42Zr0.21)
+557 Cu95+Ta2.5+Ru2.5
+558 Cu9Al4
+559 Cu-9Ni-6Sn
+560 Cu-ABA
+561 Cu-added
+562 CuAg
+562 Cu-Ag
+563 CuAg0.1
+564 CuAg7Zr0.1
+565 Cu-Ag-added
+566 Cu-Ag-Zr
+567 CuAl
+567 Cu-Al
+568 CuAl2
+569 CuAl2O3
+569 Cu-Al2O3
+570 Cu-Al2O3/1.2%GNPs
+571 Cu-Al2O3/GNPs
+572 Cu-Al2O3-La
+572 Cu-Al2O3-Lais
+573 CuAl2O4
+574 CuAl3
+575 CuAl7
+576 Cu-Al-Be
+577 Cu-alloy.
+578 Cu-Al-Mn
+579 CuAlMnZnTe
+580 Cu-Al-Ni
+581 Cu-Al-Ni-Be
+582 CuAlO2
+583 Cu-Al-Zn
+584 Cu-B/diamond
+585 Cu-based
+586 CuBe
+586 Cu-Be
+587 Cu-bearing
+588 Cu-Bi
+589 Cubic
+590 Cu-B-Ti
+591 Cu-C
+592 Cu-clad
+593 Cu-CNT
+594 Cu-Co
+595 Cu-coated
+596 Cu-containing
+597 CuCr
+597 Cu-Cr
+598 CuCr25-2wt%
+599 CuCr2Fe2NiMn
+600 Cu-CrD
+601 Cu-Cr-Mg
+602 Cu-Cr-Nb
+603 Cu-Cr-Ti-CNT
+604 Cu-Cr-Zn
+604 CuCrZr
+604 Cu-Cr-Zr
+605 Cu-Cr-Zr-Ce
+606 CuCrZrHf-II
+607 CuCrZr-I
+608 Cu-Cr-Zr-Mg-Si
+609 Cu-Cr-Zr-Ni-Si
+610 Cu-Cu
+611 Cu-CuD
+612 CuDC-3#
+295 Cu-diamond
+613 Cu-DP
+614 Cu-enriched
+615 Cu-Fe
+616 Cu-Fe/0.6%GNPs
+617 CuFe2O4
+618 CuFeO2
+619 Cu-Fe-P
+620 Cu-filled
+630 Cu-free
+631 Cu-GP
+632 Cui
+633 CuI-FE
+634 Cu-interface
+635 Cu-interlayer
+636 CuLi3S2
+637 Cu-matrix
+638 Cu-Mg
+639 Cu-Mg-Ca
+640 Cu-Mg-Ce
+641 Cu-Mg-Fe-Sn-P-Y
+642 Cu-MI
+643 Cu-mineralized
+644 Cu-Mn
+645 CuMo0
+646 Cu-multilayer
+647 Cu-nanofibers
+648 Cu-Nb
+649 Cu-NbC
+650 Cu-Nb-V
+651 Cu-Ni
+652 CuNiBe
+653 Cu-Ni-Co-Si-Mg
+654 CuNiIn
+655 CuNiSi
+655 Cu-Ni-Si
+656 CuNiSiAl
+656 Cu-Ni-Si-Al
+657 Cu-Ni-Si-Cr
+658 Cu-Ni-Si-Mg
+659 Cu-Ni-Si-Ti
+660 Cu-Ni-Si-V
+661 Cu-Ni-Si-X
+662 Cu-Ni-Si-Zn
+663 Cu-Ni-Si-Zr
+664 Cu-Ni-Sn
+665 Cu-Ni-Zn/Cu-Cr
+666 CuNWs
+667 CuO
+668 Cu-ODS
+669 Cu-OFE
+670 Cup/Fe
+671 Cu-P-SiC
+672 Cu-RGO
+673 Cu-rGo-MoS2
+674 Cu-rich
+675 Current
+676 Cu-Ru
+677 Curve
+678 CuS
+679 Cu-Sb
+680 Cu-Si
+681 Cu-SiC
+682 Cusil-ABA
+683 Cu-Si-Zn
+684 Cu-Sn
+685 Cu-Sn/Fe-based
+686 CuSn10Pb10
+687 Cu-Sn-Zn
+688 Cu-Sn-Zn-1
+689 Cu-Sn-Zn-5
+690 Cu-Sn-Zn-Fe
+691 Cu-Sn-Zn-Pb
+692 Cu-SS
+693 Cu-steel
+694 Custom
+695 Cu-substrate
+696 Cu-Ta
+697 Cu-tensilestrengthV
+697 Cu-tensilestrengthVs
+698 CuTi
+698 Cu-Ti
+699 Cu-Ti/diamond
+700 CuTiC
+700 Cu-TiC
+700 Cu-Ti-C
+701 Cu-TiC-C
+702 Cu-Ti-Cd
+703 CuTiMo
+704 Cu-TiO2
+705 Cu-TSV
+705 Cu-TSVs
+706 Cu-V
+707 CuW
+707 Cu-W
+708 Cu-xB
+709 Cu-Zn
+710 CuZn40
+711 CuZn5
+712 CuZnAl
+713 CuZn-based
+714 Cu-Zr
+715 Cu-Zr/diamond
+716 CuZr0.21
+717 d-CuAg3.62
+718 Dia/Cu
+719 diamond/Ag/Cu-2
+295 diamond/Cu
+720 diamond/Cu-2
+295 Diamond-Cu
+721 DM-CuON
+722 DPD
+723 ECAP
+724 E-Cu
+725 E-Cu+Al2O3
+726 EG/G/Cu
+727 ERCuTi-2
+728 ERCuTi-4
+729 EUROFER/80Cu20Ti
+730 FC-Cu
+731 Fe-10Cu
+732 Fe-16Cr-2.5Mo
+733 Fe-2.5Cu
+733 Fe-53Cu
+734 Fe74.91Ni8.82Cr11.62Mo1.34Ti0.67Nb0.32Al0.19V0.36Cu1.78
+735 FeCoCrAlCuNi
+736 FeCoCrAlCuNiHEA
+737 FeCoCuNiSn0.05
+738 FeCoCuNiSn0.2
+739 FeCu
+739 Fe-Cu
+740 Fe-Cu-Nb-Si-B
+741 FeMnNiCuCoSn0.03
+742 FeMnNiCuCoSn0.2
+743 Fe-Ni-Cu
+744 Fe-x(Ni+P)-1Cu 
+745 fiber/Cu
+746 film/Cu/Al
+747 flake/Cu
+748 FPM-Cu
+749 G/Cu
+750 GF/Cu-Cr
+751 GN/Cu
+752 GNP/Cu
+753 GNS/Cu
+754 GNS/Cu(0.43)
+755 GNS/Cu(0.43-R)
+756 GNS/Cu(0.85)
+757 GNSs/AlCu
+758 Gr/Cu
+759 Gr/Cu-C
+760 graphene/Cu
+761 Graphene/Cu-2
+762 Graphene/Cu-3
+763 Graphene/Cu-4
+764 Graphene/Cu-5
+765 Gr-Cu
+766 Gr-Cu/SS
+767 HCu
+768 IF(IF-Cu)
+769 IHT-Cu-steels
+770 LA-Ti-Cu-30
+771 LA-W-Cu-p2
+772 LDPE/Cu
+773 M-1.0+N-0.3 TiCp/Al-Cu
+774 MCu
+775 MCuSc
+776 Mg/Ni-Cu/Ti
+777 Mg+Si+Cu
+778 Mg-1Cu-9Al
+779 Mg-2Gd-0.75Cu
+780 Mg2Si/Al-Cu
+781 Mg2Si+SiCnp/Al-Cu
+782 Mg-3Zn-1Y-4Cu
+783 Mg-5Zn-3.5Sn-1Mn-0.5Ca-0.5Cu
+785 Mg60Cu25Ti5Y10
+785 Mg60Cu27Ti3Y10
+786 Mg60Cu30Y10
+787 Mg-6Zn-0.5Zr-0.5Cu-0.5Ce
+788 Mg-6Zn-4Al-0.5Cu
+789 Mg-6Zn-4Al-1Cu
+790 Mg72Cu5Zn23
+791 Mg84Cu16
+792 Mg97Cu1Y2
+793 Mg-Cu
+794 Mg-Cu-Gd
+795 MgCuphase
+796 MgSnCu
+797 Mg-Zn-Cu-Gd
+798 MgZnCuMn
+798 Mg-Zn-Cu-Mn
+799 Mn-0.8Cu
+800 Mn-1.5Cu
+801 Mo/Cu
+802 Mo-10Cu
+803 Mo-10wt%Cu
+804 Mo2C@RGO/Cu
+805 Mo-Cu
+806 MWCNtensilestrength/Cu
+807 MWCNTs/Cu
+808 Nb/Cu
+809 Nb/Cu/Ni
+810 Nb13Cu8Ni6.8Al6.2
+811 Nb-Cu
+812 nc Cu
+812 nc-Cu
+813 n-eicosane-Fe3O4@SiO2@Cu
+814 ng-Cu
+815 Ni/Sn-Sb-Cu
+816 Ni-13.5Cu37.5Co
+817 Ni-49.1Cu23.6Co
+818 Ni-CNTs/Cu
+819 NiCoCrCuFe
+820 Ni-Cu
+821 niobium/MZCu
+822 Ni-P-Cu
+823 NiTiCu
+823 Ni-Ti-Cu
+824 np-Cu
+825 nt-Cu
+826 NUCu-140
+827 NUCu-170
+828 OFHC-Cu
+829 PAN/CuO
+830 paraffin@Cu-Cu2O
+831 PCNT/Al-Cu
+832 PDA-25-CuNW/epoxy
+833 PDA-Cu-UHMWPE
+834 PG/Cu
+835 P-GNP/Cu
+836 P-RGO/Cu
+837 P-RGO-10/Cu
+838 PS/Cu
+839 Pt49.95Cu16.65Si6.4Ge3B24
+840 PWAA-Cu
+841 Q-Al5Cu2Mg8Si6
+842 RGO/Cu
+843 rGO/W-Cu
+844 S-Cu
+845 S-Cu+Al2O3
+846 SH-Cu
+847 Si:Cu
+848 SiCp/Al-Cu-Mg-Si-Mn
+849 SiCp/Al-Si-Cu-Ni-Mg
+850 SiCp/Cu
+851 Sm1−xCuxMnO3−δ
+852 Sn-0.7Cu
+853 Sn1.0Ag0.5Cu
+854 Sn-3.0Ag-0.5Cu
+855 Sn-40Bi-0.1Cu
+856 Sn-40Bi-2Zn-0.1Cu
+857 Sn-5Sb-0.7Cu
+858 Sn-6.5Zn-0.5Cu
+859 Sn9Zn-1Al2O3-4.5Cu
+860 SnAgCu
+860 Sn-Ag-Cu
+861 SnBi/Cu
+862 Sn-Cu-Ni
+863 Sn-Sb-Cu
+864 steel/63Ag-35.25Cu-1.75Ti
+865 steel/Ag-20Cu-15Pd/yieldstrengthZ
+866 steel/Ag-26.7Cu-4.5Ti
+867 steel/Ag-26.7Cu-4.5Ti/yieldstrengthZ
+868 Steel/Cu
+869 Ta/Cu
+870 TAS-Cu
+871 these-CuBe
+872 Ti(Cu,Al)2
+873 Ti(Cu,Al)3
+874 Ti/Cu
+875 Ti/Cu/Fe
+876 Ti/Cu66V34/Cu
+877 Ti/V/Cu
+878 Ti-10Mo-3Cu
+879 Ti-10Mo-xCu
+880 Ti2AlC/Cu
+881 Ti2Cu
+882 Ti35Ni35Cu15Zr15
+883 Ti41.7-Zr26.7-Ni13.8-Cu14.7-Co3.1
+884 Ti44Zr5.5Cu44M
+885 Ti45Cu39Ni11Zr5
+886 Ti45Ni44Cu6Hf5
+887 Ti47Cu38Zr7.5Fe2.5Sn2Si1Ag2
+888 Ti47Cu40Zr7.5Fe2.5Sn2Si1
+889 Ti50Cu43Ni7
+890 Ti50Ni40Cu10
+891 Ti-5Cu
+892 Ti-5Cu(I)
+893 Ti-5Cu(S)
+894 Ti60Cu14Ni12Sn4Nb10
+895 Ti60Cu30Ni6Co4
+896 Ti66V13Cu8Co6.8Al6.2
+897 Ti6Al4V/Cu
+898 Ti-6Al-4V-5Cu
+899 Ti94Fe3Cu3
+900 TiB2/Cu
+901 TiB2/Cu-0
+902 TiB2/Cu-1.2
+903 TiC/Al-Cu
+904 TiC0.5/Cu-Al
+905 Ti-C-Cu
+906 TiCp/Al-Cu
+907 TiCp/Al-Cu-Mg-Si
+908 TiCu
+908 Ti-Cu
+909 Ti-Cu(I)
+910 TiCu4
+911 Ti-Cu-Fe
+912 Ti-Cu-Mn
+913 Ti-Cu-N
+914 Ti-Cu-Zr-Fe-Nb
+915 Ti-Nb-Cu-Co-Al
+916 TiNiCu
+917 Ti-Ni-Cu-Zr
+918 TiO2/Cu
+919 TiZrCuNCo
+920 TiZrCuNi
+921 UFG-Cu
+922 U-GNP/Cu
+923 V/Cu
+924 V-GNP/Cu
+925 W(Cr-Cu)
+926 W/Cu
+927 W/Cu/steel
+928 W/CuCrZr
+929 W-10%Cu
+930 W-10wt%Cu
+931 W-15Cu
+932 W-20Cu
+933 W-20Cu/2Ag
+934 W-20wt.%Cu
+934 W−20wt.%Cu
+935 W-23.5wt.%Cu
+936 W-30CuCrZr
+937 W-30wt.%Cu
+938 W-4.2Ni-1.8Fe-4Cu
+939 W-40wt.%Cu
+940 W-5wt.%Cu
+941 W70Cu30
+942 W80-Cu20
+943 W85Cu15
+944 WC25-Cu75
+945 WC75-Cu25
+946 WC-8Co/Cu-19Ni-5Al
+947 WC-Cu
+948 WCu
+948 W-Cu
+949 W-Cu/Ag
+950 W-Cu40wt.%
+951 W-Cu-La2O3
+952 weld-Cu
+953 W-Mo-Cu
+954 WS2:Cu/60:40
+955 YCu
+956 Zn-0.35Mn-0.41Cu
+957 Zn-0.5Cu
+958 Zn-0.5Cu-xFe
+959 Zn-0.75Mn-0.40Cu
+960 Zn-1.0Ca-0.5Cu
+961 Zn-1Cu
+962 Zn-25Sn
+963 Zn-25Sn-0.4Cu-0.04Ti
+964 Zn-25Sn-1.0Cu
+965 Zn-25Sn-xCu
+966 Zn-25Sn-xCu-yTi
+967 Zn-3Cu
+968 Zn-4.0Cu
+968 Zn4Cu
+968 Zn-4Cu
+969 Zn-Cu
+970 ZnCuFe
+971 Zn-Cu-Mn-Ti
+972 Zn-xCu
+973 zones/Cu-Mg
+974 Zr47.3Cu32Al8Ag8Ta4Si0.7-based
+975 Zr47.5Cu47.5Al5-BMG
+976 Zr50Cu40Al10
+977 Zr53Cu30Nb4.5Pd4.5Al8
+978 Zr53Cu30Nb5Pd4Al8
+979 Zr57Cu20Al10Ni8Ag5
+980 Zr57Cu20Al10Ni8Ti5
+981 Zr57Ni12.6Al10Cu15.4Nb5
+982 Zr60Al10Cu20Pd10
+983 Zr-Cu
+984 Zr-Cu-Al
+985 Zr-Cu-Al-Ag
+986 Zr-Cu-Ni-Al
+987 Zr-Ti-Al-Fe-Cu-Ag
+988 α-Cu
+989 αCu = 12.8 × 10−6/K
+990 α-Mg+MgZn2+MgCuZn
+991 β-Ti+Ti2Cu+TiFe
+992 γ-Cu2S
+993 δ-Al3CuNi
+994 δ-Cu2S
+995 δ-Ferrite + Cu
+996 ε-Cu
+997 ε-CuZn5
+998 σCu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

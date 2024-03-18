@@ -1,0 +1,6 @@
+1  yield strength
+2  thermal conductivity
+3  tensile strength
+4  hardness
+5  electrical conductivity
+6  coefficient of thermal expansion
